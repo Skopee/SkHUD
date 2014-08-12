@@ -2554,7 +2554,7 @@ Scheme
 				"antialias"	"1"
 			}
 		}
-			"Chelsea12"
+		"Chelsea12"
 		{
 			"1"
 			{
@@ -3634,8 +3634,557 @@ Scheme
 				"antialias"	"1"
 			}
 		}
-		
-		
+		"madameklara12"
+		{
+			"1"
+			{
+				"name"		"madameklara"
+				"tall"		"12"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"madameklara14"
+		{
+			"1"
+			{
+				"name"		"madameklara"
+				"tall"		"14"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"madameklara16"
+		{
+			"1"
+			{
+				"name"		"madameklara"
+				"tall"		"16"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"madameklara18"
+		{
+			"1"
+			{
+				"name"		"madameklara"
+				"tall"		"18"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"madameklara20"
+		{
+			"1"
+			{
+				"name"		"madameklara"
+				"tall"		"20"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"madameklara22"
+		{
+			"1"
+			{
+				"name"		"madameklara"
+				"tall"		"22"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"madameklara24"
+		{
+			"1"
+			{
+				"name"		"madameklara"
+				"tall"		"24"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"madameklara26"
+		{
+			"1"
+			{
+				"name"		"madameklara"
+				"tall"		"26"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"madameklara28"
+		{
+			"1"
+			{
+				"name"		"madameklara"
+				"tall"		"28"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"madameklara30"
+		{
+			"1"
+			{
+				"name"		"madameklara"
+				"tall"		"30"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"madameklara32"
+		{
+			"1"
+			{
+				"name"		"madameklara"
+				"tall"		"32"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"madameklara34"
+		{
+			"1"
+			{
+				"name"		"madameklara"
+				"tall"		"34"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"madameklara36"
+		{
+			"1"
+			{
+				"name"		"madameklara"
+				"tall"		"36"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"madameklara38"
+		{
+			"1"
+			{
+				"name"		"madameklara"
+				"tall"		"38"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"madameklara40"
+		{
+			"1"
+			{
+				"name"		"madameklara"
+				"tall"		"40"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"madameklara42"
+		{
+			"1"
+			{
+				"name"		"madameklara"
+				"tall"		"42"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"madameklara44"
+		{
+			"1"
+			{
+				"name"		"madameklara"
+				"tall"		"44"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"madameklara46"
+		{
+			"1"
+			{
+				"name"		"madameklara"
+				"tall"		"46"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"madameklara48"
+		{
+			"1"
+			{
+				"name"		"madameklara"
+				"tall"		"48"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"madameklara50"
+		{
+			"1"
+			{
+				"name"		"madameklara"
+				"tall"		"50"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"madameklara52"
+		{
+			"1"
+			{
+				"name"		"madameklara"
+				"tall"		"52"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"madameklara54"
+		{
+			"1"
+			{
+				"name"		"madameklara"
+				"tall"		"54"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"madameklara56"
+		{
+			"1"
+			{
+				"name"		"madameklara"
+				"tall"		"56"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"madameklara58"
+		{
+			"1"
+			{
+				"name"		"madameklara"
+				"tall"		"58"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"madameklara60"
+		{
+			"1"
+			{
+				"name"		"madameklara"
+				"tall"		"60"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"madameklara62"
+		{
+			"1"
+			{
+				"name"		"madameklara"
+				"tall"		"62"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"madameklara64"
+		{
+			"1"
+			{
+				"name"		"madameklara"
+				"tall"		"64"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+
+		"Basic18"
+		{
+			"1"
+			{
+				"name"		"basic title font"
+				"tall"		"18"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Entypo12"
+		{
+			"1"
+			{
+				"name"		"Entypo"
+				"tall"		"12"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Entypo14"
+		{
+			"1"
+			{
+				"name"		"Entypo"
+				"tall"		"14"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Entypo16"
+		{
+			"1"
+			{
+				"name"		"Entypo"
+				"tall"		"16"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Entypo18"
+		{
+			"1"
+			{
+				"name"		"Entypo"
+				"tall"		"18"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Entypo20"
+		{
+			"1"
+			{
+				"name"		"Entypo"
+				"tall"		"20"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Entypo22"
+		{
+			"1"
+			{
+				"name"		"Entypo"
+				"tall"		"22"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Entypo24"
+		{
+			"1"
+			{
+				"name"		"Entypo"
+				"tall"		"24"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Entypo26"
+		{
+			"1"
+			{
+				"name"		"Entypo"
+				"tall"		"26"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Entypo28"
+		{
+			"1"
+			{
+				"name"		"Entypo"
+				"tall"		"28"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Entypo30"
+		{
+			"1"
+			{
+				"name"		"Entypo"
+				"tall"		"30"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Entypo32"
+		{
+			"1"
+			{
+				"name"		"Entypo"
+				"tall"		"32"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Entypo34"
+		{
+			"1"
+			{
+				"name"		"Entypo"
+				"tall"		"34"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Entypo36"
+		{
+			"1"
+			{
+				"name"		"Entypo"
+				"tall"		"36"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Entypo38"
+		{
+			"1"
+			{
+				"name"		"Entypo"
+				"tall"		"38"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Entypo40"
+		{
+			"1"
+			{
+				"name"		"Entypo"
+				"tall"		"40"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Entypo42"
+		{
+			"1"
+			{
+				"name"		"Entypo"
+				"tall"		"42"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Entypo44"
+		{
+			"1"
+			{
+				"name"		"Entypo"
+				"tall"		"44"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Entypo46"
+		{
+			"1"
+			{
+				"name"		"Entypo"
+				"tall"		"46"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Entypo48"
+		{
+			"1"
+			{
+				"name"		"Entypo"
+				"tall"		"48"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Entypo50"
+		{
+			"1"
+			{
+				"name"		"Entypo"
+				"tall"		"50"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Entypo52"
+		{
+			"1"
+			{
+				"name"		"Entypo"
+				"tall"		"52"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Entypo54"
+		{
+			"1"
+			{
+				"name"		"Entypo"
+				"tall"		"54"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Entypo56"
+		{
+			"1"
+			{
+				"name"		"Entypo"
+				"tall"		"56"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Entypo58"
+		{
+			"1"
+			{
+				"name"		"Entypo"
+				"tall"		"58"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Entypo60"
+		{
+			"1"
+			{
+				"name"		"Entypo"
+				"tall"		"60"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Entypo62"
+		{
+			"1"
+			{
+				"name"		"Entypo"
+				"tall"		"62"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Entypo64"
+		{
+			"1"
+			{
+				"name"		"Entypo"
+				"tall"		"64"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
 		//
 		//////////////////// REPLAY FONTS //////////////////////////////
 		//
@@ -5798,6 +6347,21 @@ Scheme
 		{
 			"font" "resource/fonts/Ocho Siete.ttf"
 			"name" "Ocho Siete"
+		}
+		"16"
+		{
+			"font" "resource/fonts/MadameKlara.ttf"
+			"name" "madameklara"
+		}
+		"17"
+		{
+			"font" "resource/fonts/basictitlefont.ttf"
+			"name" "basic titlefont font"
+		}
+		"18"
+		{
+			"font" "resource/fonts/Entypo.otf"
+			"name" "Entypo"
 		}
 		
 	}

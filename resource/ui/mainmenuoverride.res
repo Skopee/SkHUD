@@ -129,33 +129,45 @@
 		"zpos"			"-200"
 		"wide"			"f0"
 		"tall"			"480"
-		"visible"		"0"
+		"visible"		"1"
 		"enabled"		"1"
 		"image"			""
-		"scaleImage"	"1"
-		
-		if_halloween_0
-		{
-			"image"		"../console/title_team_halloween2011"
-		}
-		if_halloween_1
-		{
-			"image"		"../console/title_team_halloween2012"
-		}
-		if_halloween_2
-		{
-			"image"		"../console/title_team_halloween2013"
-		}
-		if_fullmoon
-		{
-			"image"		"../console/title_fullmoon"
-		}
-		if_christmas
-		{
-			"image"		"../console/background_xmas2011"
-		}
+		"scaleImage"	"1"	
+		"fillcolor"		"0 0 0 0"
 	}
-					
+	"HudLabel"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"HudLabel"
+		"font"			"Basic18"
+		"labelText"		"skHUD v.01"
+		"textAlignment"	"center"
+		"xpos"			"c-400"
+		"ypos"			"437"
+		"wide"			"100"
+		"tall"			"25"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fgcolor_override"	"46 46 46 255"
+	}
+	"HudlabelBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"HudlabelBG"
+		"xpos"			"c-450"
+		"ypos"			"150"
+		"zpos"			"-50"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
+		"fillcolor"		"255 255 255 75"
+		
+	}	
+	
+
 	"TFLogoImage"
 	{
 		"ControlName"	"ImagePanel"
@@ -163,10 +175,10 @@
 		"xpos"			"c-128"
 		"ypos"			"215"
 		"zpos"			"-99"
-		"wide"			"256"
-		"tall"			"64"
-		"visible"		"1"
-		"enabled"		"1"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"../logo/new_tf2_logo"
 		"scaleImage"	"1"
 	}	
@@ -304,7 +316,7 @@
 			"tabPosition"	"0"
 			"textinsetx"	"25"
 			"use_proportional_insets" "1"
-			"font"			"Chelsea18"
+			"font"			"Basic18"
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -343,7 +355,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MOTD_ShowButtonPanel"
 		"xpos"			"c320"
-		"ypos"			"433"
+		"ypos"			"423"
 		"zpos"			"1"
 		"wide"			"32"
 		"tall"			"32"
@@ -365,19 +377,22 @@
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"1"
-			"wide"			"32"
-			"tall"			"32"
+			"wide"			"36"
+			"tall"			"36"
 			"autoResize"	"0"
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"labelText"		""
-			"font"			"HudFontSmallestBold"
+			"labelText"		"%"
+			"font"			"Entypo36"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
+			"defaultFgColor_override" "MenuButton"
+			"armedFgColor_override" "MenuButtonHover"
+			"depressedFgColor_override" "MenuButton"
 
 			"Command"		"motd_show"
 			"navActivate"	"<QuickplayButton"		// after selecting this, nav to this sibling
@@ -385,8 +400,8 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground" "0"
-			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"255 255 255 255"
+			"image_drawcolor"	"46 46 46 255"
+			"image_armedcolor"	"127 255 212 255"
 
 			"SubImage"
 			{
@@ -395,8 +410,8 @@
 				"xpos"			"0"
 				"ypos"			"0"
 				"zpos"			"1"
-				"wide"			"32"
-				"tall"			"32"
+				"wide"			"0"
+				"tall"			"0"
 				"visible"		"1"
 				"enabled"		"1"
 				"image"			"button_MOTD"
@@ -781,7 +796,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Notifications_ShowButtonPanel"
 		"xpos"			"c360"
-		"ypos"			"433"
+		"ypos"			"423"
 		"zpos"			"10"
 		"wide"			"32"
 		"tall"			"32"
@@ -801,7 +816,7 @@
 			"ControlName"	"ImagePanel"
 			"fieldName"		"SubImage"
 			"xpos"			"16"
-			"ypos"			"0"
+			"ypos"			"4"
 			"zpos"			"3"
 			"wide"			"16"
 			"tall"			"16"
@@ -809,7 +824,7 @@
 			"enabled"		"1"
 			"image"			"glyph_achievements"
 			"scaleImage"	"1"
-			"drawcolor" "210 125 33 255"
+			"drawcolor" "127 255 212 255"
 		}				
 		
 		"Notifications_CountLabel"
@@ -820,7 +835,7 @@
 			"labelText"		"%noticount%"
 			"textAlignment"	"center"
 			"xpos"			"16"
-			"ypos"			"0"
+			"ypos"			"4"
 			"zpos"			"4"
 			"wide"			"16"
 			"tall"			"16"
@@ -828,7 +843,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"255 255 255 255"
+			"fgcolor_override"	"46 46 46 255"
 		}
 	
 		"Notifications_ShowButtonPanel_SB"
@@ -838,19 +853,22 @@
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"1"
-			"wide"			"32"
-			"tall"			"32"
+			"wide"			"36"
+			"tall"			"36"
 			"autoResize"	"0"
 			"pinCorner"		"3"
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"labelText"		""
-			"font"			"Chelsea12"
+			"labelText"		"M"
+			"font"			"Entypo36"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
+			"defaultFgColor_override" "MenuButton"
+			"armedFgColor_override" "MenuButtonHover"
+			"depressedFgColor_override" "MenuButton"
 
 			"Command"		"noti_show"
 			"navActivate"	"<QuickplayButton"
@@ -868,10 +886,10 @@
 				"xpos"			"0"
 				"ypos"			"0"
 				"zpos"			"1"
-				"wide"			"32"
-				"tall"			"32"
-				"visible"		"1"
-				"enabled"		"1"
+				"wide"			"0"
+				"tall"			"0"
+				"visible"		"0"
+				"enabled"		"0"
 				"image"			"button_Alert"
 				"scaleImage"	"1"
 			}
@@ -1076,7 +1094,7 @@
 			"tabPosition"	"0"
 			"textinsetx"	"25"
 			"use_proportional_insets" "1"
-			"font"			"Chelsea18"
+			"font"			"Basic18"
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -1143,7 +1161,7 @@
 			"tabPosition"	"0"
 			"textinsetx"	"25"
 			"use_proportional_insets" "1"
-			"font"			"Chelsea18"
+			"font"			"Basic18"
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -1275,7 +1293,7 @@
 			"tabPosition"	"0"
 			"textinsetx"	"25"
 			"use_proportional_insets" "1"
-			"font"			"Chelsea18"
+			"font"			"Basic18"
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -1341,7 +1359,7 @@
 			"tabPosition"	"0"
 			"textinsetx"	"25"
 			"use_proportional_insets" "1"
-			"font"			"Chelsea18"
+			"font"			"Basic18"
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -1419,7 +1437,7 @@
 			"tabPosition"	"0"
 			"textinsetx"	"25"
 			"use_proportional_insets" "1"
-			"font"			"Chelsea18"
+			"font"			"Basic18"
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -1672,7 +1690,7 @@
 			"tabPosition"	"0"
 			"textinsetx"	"25"
 			"use_proportional_insets" "1"
-			"font"			"Chelsea18"
+			"font"			"Basic18"
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -1709,8 +1727,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"ResumeGameButton"
-		"xpos"			"c-285"
-		"ypos"			"120"
+		"xpos"			"c-400"
+		"ypos"			"20"
 		"zpos"			"11"
 		"wide"			"270"
 		"tall"			"36"
@@ -1737,7 +1755,7 @@
 			"tabPosition"	"0"
 			"textinsetx"	"25"
 			"use_proportional_insets" "1"
-			"font"			"Chelsea18"
+			"font"			"Basic18"
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -1776,8 +1794,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"QuickplayChangeButton"
-		"xpos"			"c-285"
-		"ypos"			"150"
+		"xpos"			"c-400"
+		"ypos"			"60"
 		"zpos"			"11"
 		"wide"			"270"
 		"tall"			"36"
@@ -1804,7 +1822,7 @@
 			"tabPosition"	"0"
 			"textinsetx"	"25"
 			"use_proportional_insets" "1"
-			"font"			"Chelsea18"
+			"font"			"Basic18"
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -1871,7 +1889,7 @@
 			"tabPosition"	"0"
 			"textinsetx"	"25"
 			"use_proportional_insets" "1"
-			"font"			"Chelsea18"
+			"font"			"Basic18"
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -1937,7 +1955,7 @@
 			"tabPosition"	"0"
 			"textinsetx"	"25"
 			"use_proportional_insets" "1"
-			"font"			"Chelsea18"
+			"font"			"Basic18"
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -1974,8 +1992,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"ChangeServerButton"
-		"xpos"			"c-285"
-		"ypos"			"180"
+		"xpos"			"c-400"
+		"ypos"			"100"
 		"zpos"			"11"
 		"wide"			"270"
 		"tall"			"36"
@@ -2002,7 +2020,7 @@
 			"tabPosition"	"0"
 			"textinsetx"	"25"
 			"use_proportional_insets" "1"
-			"font"			"Chelsea18"
+			"font"			"Basic18"
 			"textAlignment"	"west"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -2041,8 +2059,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"CallVoteButton"
-		"xpos"			"c-105"
-		"ypos"			"123"
+		"xpos"			"c-125"
+		"ypos"			"50"
 		"zpos"			"12"
 		"wide"			"26"
 		"tall"			"26"
@@ -2076,16 +2094,16 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
-			"border_default"	"MainMenuMiniButtonDefault"
-			"border_armed"		"MainMenuMiniButtonArmed"
+			"border_default"	""
+			"border_armed"		""
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "46 46 46 255"
 			"armedFgColor_override" "46 43 42 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"depressedFgColor_override" "46 46 46 255"
 			
-			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"235 226 202 255"
+			"image_drawcolor"	"46 46 46 255"
+			"image_armedcolor"	"127 255 212 255"
 			
 			"SubImage"
 			{
@@ -2107,8 +2125,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"MutePlayersButton"
-		"xpos"			"c-85"
-		"ypos"			"123"
+		"xpos"			"c-105"
+		"ypos"			"50"
 		"zpos"			"12"
 		"wide"			"26"
 		"tall"			"26"
@@ -2142,16 +2160,16 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
-			"border_default"	"MainMenuMiniButtonDefault"
-			"border_armed"		"MainMenuMiniButtonArmed"
+			"border_default"	""
+			"border_armed"		""
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "46 43 42 255"
 			"armedFgColor_override" "46 43 42 255"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"235 226 202 255"
+			"image_drawcolor"	"46 46 46 255"
+			"image_armedcolor"	"127 255 212 255"
 			
 			"SubImage"
 			{
@@ -2174,8 +2192,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldname"		"RequestCoachButton"
-		"xpos"			"c-65"
-		"ypos"			"123"
+		"xpos"			"c-85"
+		"ypos"			"50"
 		"zpos"			"12"
 		"wide"			"26"
 		"tall"			"26"
@@ -2209,16 +2227,16 @@
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
-			"border_default"	"MainMenuMiniButtonDefault"
-			"border_armed"		"MainMenuMiniButtonArmed"
+			"border_default"	""
+			"border_armed"		""
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "46 43 42 255"
 			"armedFgColor_override" "46 43 42 255"
 			"depressedFgColor_override" "46 43 42 255"
 			
-			"image_drawcolor"	"235 226 202 255"
-			"image_armedcolor"	"235 226 202 255"
+			"image_drawcolor"	"46 46 46 255"
+			"image_armedcolor"	"127 255 212 255"
 			
 			"SubImage"
 			{
@@ -2248,7 +2266,7 @@
 		"tall"			"130"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"255 255 255 25"
+		"fillcolor"		"255 255 255 75"
 		"tileImage"		"1"
 		
 	}	
@@ -2263,7 +2281,7 @@
 		"tall"			"130"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"255 255 255 25"
+		"fillcolor"		"255 255 255 75"
 		"tileImage"		"1"
 		
 	}	
@@ -2568,7 +2586,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#MMenu_AdvOptions"
-		"font"			"Chelsea18"
+		"font"			"Basic18"
 		"textAlignment"	"east"
 		"textinsetx"	"25"
 		"dulltext"		"0"
@@ -2621,7 +2639,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#GameUI_GameMenu_Options"
-		"font"			"Chelsea18"
+		"font"			"Basic18"
 		"textAlignment"	"west"
 		"textinsetx"	"35"
 		"use_proportional_insets" "1"
@@ -2676,7 +2694,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#TF_Quit_Title"
-		"font"			"Chelsea18"
+		"font"			"Basic18"
 		"textAlignment"	"west"
 		"textinsetx"	"35"
 		"use_proportional_insets" "1"
@@ -2716,6 +2734,7 @@
 			"image"			"glyph_quit"
 		}				
 	}			
+			
 	
 	"DisconnectButton"
 	{
@@ -2732,7 +2751,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"#GameUI_GameMenu_Disconnect"
-		"font"			"Chelsea18"
+		"font"			"Basic18"
 		"textAlignment"	"west"
 		"textinsetx"	"35"
 		"use_proportional_insets" "1"
