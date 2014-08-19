@@ -99,6 +99,7 @@
 			"ControlName"	"CExLabel"
 			"fieldName"		"NumPipesLabel"
 			"xpos"			"0"
+			"ypos"			"18"
 			"zpos"			"2"
 			"wide"			"118"
 			"tall"			"30"
