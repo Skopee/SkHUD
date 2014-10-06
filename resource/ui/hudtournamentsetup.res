@@ -13,7 +13,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"0 0 0 200"
+		"fillcolor"		"255 255 255 25"
 	}
 
 	"TournamentSetupLabel"
@@ -33,7 +33,7 @@
 		"wrap"			"0"
 		"labelText"		"%tournamentstatelabel%"
 		"textAlignment"		"west"
-		"fgcolor_override"		"255 255 255 255"
+		"fgcolor_override"		"46 46 46 255"
 	}
 
 	"TournamentTeamNameLabel"
@@ -99,7 +99,7 @@
 		"fillcolor"	"0 0 0 0"
 		"scaleImage"	"1"
 	}
-			"TournamentNotReadyBG"
+	"TournamentNotReadyBG"
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"TournamentNotReadyBG"
@@ -108,7 +108,7 @@
 		"zpos"			"-1"
 		"wide"			"70"
 		"tall"			"15"
-		"fillcolor"		"0 0 0 200"
+		"fillcolor"		"0 0 0 0"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -135,9 +135,9 @@
 		"command"		"teamnotready"
 		"default"		"1"
 		"font"			"Champagne10"
-				"defaultFgColor_override" "White"
-		"armedFgColor_override" "209 108 36 255"
-		"depressedFgColor_override" "209 108 36 255"
+				"defaultFgColor_override" "46 46 46 255"
+		"armedFgColor_override" "127 255 212 255"
+		"depressedFgColor_override" "127 255 212 255"
 		
 		"border_default"	""
 		"border_armed"		""
@@ -152,7 +152,7 @@
 		"zpos"			"-1"
 		"wide"			"70"
 		"tall"			"15"
-		"fillcolor"		"0 0 0 200"
+		"fillcolor"		"0 0 0 0"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -179,9 +179,9 @@
 		"command"		"teamready" 
 		"default"		"1"
 		"font"			"Champagne10"
-		"defaultFgColor_override" "White"
-		"armedFgColor_override" "209 108 36 255"
-		"depressedFgColor_override" "209 108 36 255"
+		"defaultFgColor_override" "46 46 46 255"
+		"armedFgColor_override" "127 255 212 255"
+		"depressedFgColor_override" "127 255 212 255"
 		
 		"border_default"	""
 		"border_armed"		""

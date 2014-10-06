@@ -38,23 +38,21 @@
 		"ypos"			"105"
 		"zpos"			"-1"
 		"wide"			"175"
-		"wide_lodef"	"570"
-		"wide_hidef"	"590"
-		"tall"			"325"
+		"tall"			"275"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor" "0 0 0 200"
+		"fillcolor" "255 255 255 25"
 	}
 	"random"
 	{
 		"ControlName"		"CExImageButton"
 		"fieldName"			"random"
-		"xpos"				"c-75"
+		"xpos"				"c-110"
 		"ypos"				"r128"
 		"zpos"				"6"
-		"wide"				"150"
+		"wide"				"75"
 		"tall"				"14"
 		"autoResize"		"0"
 		"pinCorner"			"2"
@@ -65,16 +63,16 @@
 		"textAlignment"		"center"
 		"Command"			"select 12"
 		"Default"			"1"
-		"font"				"HudFontSmallBold"
+		"font"				"Champagne8"
 		"scaleImage"		"1"
 		
 		"image_default"		"class_sel_sm_random_inactive"
 		"image_armed"		"class_sel_sm_random_inactive"
 		
-		"fgcolor"			"255 255 255 255"
-		"defaultFgColor_override" "255 255 255 255"
+		"fgcolor"			"46 46 46 255"
+		"defaultFgColor_override" "46 46 46 255"
 		"armedFgColor_override" "127 255 212 255"
-		"depressedFgColor_override" "255 255 255 255"
+		"depressedFgColor_override" "46 46 46 255"
 		"selectedFgColor_override" "127 255 212 255"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -111,10 +109,10 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"randomLetter"
-		"xpos"			"c-25"
-		"ypos"			"r116"
+		"xpos"			"c-110"
+		"ypos"			"r120"
 		"zpos"			"6"
-		"wide"			"50"
+		"wide"			"75"
 		"tall"			"14"
 		"autoResize"	"0"
 		"pinCorner"		"2"
@@ -127,12 +125,12 @@
 		"border_default"	""
 		"border_armed"		""
 		"paintbackground"	"0"
-		"font"			"HudFontSmallBold"
+		"font"			"Champagne8"
 		"fgcolor"			"Select"
-			"defaultFgColor_override" "Select"
-		"armedFgColor_override" "46 46 46 255"
-		"depressedFgColor_override" "Select"
-		"selectedFgColor_override" "46 46 46 255"
+		"defaultFgColor_override" "46 46 46 255"
+		"armedFgColor_override" "127 255 212 255"
+		"depressedFgColor_override" "46 46 46 255"
+		"selectedFgColor_override" "127 255 212 255"
 	}
 		
 	"Offense"
@@ -190,11 +188,11 @@
 		"image_default"		"class_sel_sm_scout_inactive"
 		"image_armed"		"class_sel_sm_scout_inactive"
 		
-		"fgcolor"			"TanDark"
-		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "TanDark"
-		"depressedFgColor_override" "TanDark"
-		"selectedFgColor_override" "TanDark"
+		"fgcolor"			"46 46 46 255"
+		"defaultFgColor_override" "46 46 46 255"
+		"armedFgColor_override" "127 255 212 255"
+		"depressedFgColor_override" "46 46 46 255"
+		"selectedFgColor_override" "127 255 212 255"
 			
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -254,11 +252,11 @@
 		"image_default"		"class_sel_sm_soldier_inactive"
 		"image_armed"		"class_sel_sm_soldier_inactive"
 		
-		"fgcolor"			"TanDark"
-		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "TanDark"
-		"depressedFgColor_override" "TanDark"
-		"selectedFgColor_override" "TanDark"
+		"fgcolor"			"46 46 46 255"
+		"defaultFgColor_override" "46 46 46 255"
+		"armedFgColor_override" "127 255 212 255"
+		"depressedFgColor_override" "46 46 46 255"
+		"selectedFgColor_override" "127 255 212 255"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -318,10 +316,11 @@
 		"image_default"		"class_sel_sm_pyro_inactive"
 		"image_armed"		"class_sel_sm_pyro_inactive"
 		
-		"fgcolor"			"TanDark"
-		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "TanDark"
-		"depressedFgColor_override" "TanDark"
+		"fgcolor"			"46 46 46 255"
+		"defaultFgColor_override" "46 46 46 255"
+		"armedFgColor_override" "127 255 212 255"
+		"depressedFgColor_override" "46 46 46 255"
+		"selectedFgColor_override" "127 255 212 255"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -407,10 +406,11 @@
 		"image_default"		"class_sel_sm_demo_inactive"
 		"image_armed"		"class_sel_sm_demo_inactive"
 		
-		"fgcolor"			"TanDark"
-		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "TanDark"
-		"depressedFgColor_override" "TanDark"
+		"fgcolor"			"46 46 46 255"
+		"defaultFgColor_override" "46 46 46 255"
+		"armedFgColor_override" "127 255 212 255"
+		"depressedFgColor_override" "46 46 46 255"
+		"selectedFgColor_override" "127 255 212 255"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -469,10 +469,11 @@
 		"image_default"		"class_sel_sm_heavy_inactive"
 		"image_armed"		"class_sel_sm_heavy_inactive"
 		
-		"fgcolor"			"TanDark"
-		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "TanDark"
-		"depressedFgColor_override" "TanDark"
+		"fgcolor"			"46 46 46 255"
+		"defaultFgColor_override" "46 46 46 255"
+		"armedFgColor_override" "127 255 212 255"
+		"depressedFgColor_override" "46 46 46 255"
+		"selectedFgColor_override" "127 255 212 255"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -530,10 +531,11 @@
 		"image_default"		"class_sel_sm_engineer_inactive"
 		"image_armed"		"class_sel_sm_engineer_inactive"
 		
-		"fgcolor"			"TanDark"
-		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "TanDark"
-		"depressedFgColor_override" "TanDark"
+		"fgcolor"			"46 46 46 255"
+		"defaultFgColor_override" "46 46 46 255"
+		"armedFgColor_override" "127 255 212 255"
+		"depressedFgColor_override" "46 46 46 255"
+		"selectedFgColor_override" "127 255 212 255"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -620,10 +622,11 @@
 		"image_default"		"class_sel_sm_medic_inactive"
 		"image_armed"		"class_sel_sm_medic_inactive"
 		
-		"fgcolor"			"TanDark"
-		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "TanDark"
-		"depressedFgColor_override" "TanDark"
+		"fgcolor"			"46 46 46 255"
+		"defaultFgColor_override" "46 46 46 255"
+		"armedFgColor_override" "127 255 212 255"
+		"depressedFgColor_override" "46 46 46 255"
+		"selectedFgColor_override" "127 255 212 255"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -683,10 +686,11 @@
 		"image_default"		"class_sel_sm_sniper_inactive"
 		"image_armed"		"class_sel_sm_sniper_inactive"
 		
-		"fgcolor"			"TanDark"
-		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "TanDark"
-		"depressedFgColor_override" "TanDark"
+		"fgcolor"			"46 46 46 255"
+		"defaultFgColor_override" "46 46 46 255"
+		"armedFgColor_override" "127 255 212 255"
+		"depressedFgColor_override" "46 46 46 255"
+		"selectedFgColor_override" "127 255 212 255"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -746,10 +750,11 @@
 		"image_default"		"class_sel_sm_spy_inactive"
 		"image_armed"		"class_sel_sm_spy_inactive"
 		
-		"fgcolor"			"TanDark"
-		"defaultFgColor_override" "TanDark"
-		"armedFgColor_override" "TanDark"
-		"depressedFgColor_override" "TanDark"
+		"fgcolor"			"46 46 46 255"
+		"defaultFgColor_override" "46 46 46 255"
+		"armedFgColor_override" "127 255 212 255"
+		"depressedFgColor_override" "46 46 46 255"
+		"selectedFgColor_override" "127 255 212 255"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
 		"sound_released"	"UI/buttonclickrelease.wav"
@@ -785,11 +790,11 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"CancelButton"
-		"xpos"			"c-50"
-		"ypos"			"r88"
+		"xpos"			"c35"
+		"ypos"			"r128"
 		"zpos"			"6"
-		"wide"			"100"
-		"tall"			"25"
+		"wide"			"75"
+		"tall"			"14"
 		"autoResize"	"0"
 		"pinCorner"		"2"
 		"visible"		"1"
@@ -798,22 +803,22 @@
 		"labelText"		"Cancel"
 		"textAlignment"	"center"
 		"Command"		"vguicancel"
-		"font"			"HudFontSmallBold"
+		"font"			"Champagne8"
 		"paintbackground"		"0"
-		"defaultFgColor_override" "255 255 255 255"
+		"defaultFgColor_override" "46 46 46 255"
 		"armedFgColor_override" "127 255 212 255"
-		"depressedFgColor_override" "255 255 255 255"
+		"depressedFgColor_override" "46 46 46 255"
 		"selectedFgColor_override" "127 255 212 255"
 	}
 	"CancelButtonLetter"  
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"CancelButtonLetter"
-		"xpos"			"c-25"
-		"ypos"			"r76"
+		"xpos"			"c35"
+		"ypos"			"r120"
 		"zpos"			"6"
-		"wide"			"50"
-		"tall"			"25"
+		"wide"			"75"
+		"tall"			"14"
 		"autoResize"	"0"
 		"pinCorner"		"2"
 		"visible"		"1"
@@ -825,11 +830,11 @@
 		"border_default"	""
 		"border_armed"		""
 		"paintbackground"	"0"
-		"font"			"HudFontSmallBold"
+		"font"			"Champagne8"
 		
-			"defaultFgColor_override" "255 255 255 255"
+			"defaultFgColor_override" "46 46 46 255"
 		"armedFgColor_override" "127 255 212 255"
-		"depressedFgColor_override" "255 255 255 255"
+		"depressedFgColor_override" "46 46 46 255"
 		"selectedFgColor_override" "127 255 212 255"
 	}
 	
@@ -837,24 +842,24 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"EditLoadoutButton"
-		"xpos"			"c-75"
-		"ypos"			"r110"
+		"xpos"			"c-40"
+		"ypos"			"r128"
 		"zpos"			"6"
-		"wide"			"150"
-		"tall"			"25"
+		"wide"			"80"
+		"tall"			"14"
 		"autoResize"	"0"
 		"pinCorner"		"2"
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"
-		"labelText"		"EditLoadout"
+		"labelText"		"Edit Loadout"
 		"textAlignment"	"center"	
 		"Command"		"openloadout"
-		"font"			"HudFontSmallBold"
+		"font"			"Champagne8"
 		"paintbackground" "0"
-		"defaultFgColor_override" "255 255 255 255"
+		"defaultFgColor_override" "46 46 46 255"
 		"armedFgColor_override" "127 255 212 255"
-		"depressedFgColor_override" "255 255 255 255"
+		"depressedFgColor_override" "46 46 46 255"
 		"selectedFgColor_override" "127 255 212 255"
 	}
 	
@@ -862,11 +867,11 @@
 	{
 		"ControlName"	"CExButton"
 		"fieldName"		"EditLoadoutButtonLetter"
-		"xpos"			"c-50"
-		"ypos"			"r98"
+		"xpos"			"c-40"
+		"ypos"			"r120"
 		"zpos"			"6"
-		"wide"			"100"
-		"tall"			"25"
+		"wide"			"80"
+		"tall"			"14"
 		"autoResize"	"0"
 		"pinCorner"		"2"
 		"visible"		"1"
@@ -878,11 +883,11 @@
 		"border_default"	""
 		"border_armed"		""
 		"paintbackground"	"0"
-		"font"			"HudFontSmallBold"
+		"font"			"Champagne8"
 		
-		"defaultFgColor_override" "255 255 255 255"
+		"defaultFgColor_override" "46 46 46 255"
 		"armedFgColor_override" "127 255 212 255"
-		"depressedFgColor_override" "255 255 255 255"
+		"depressedFgColor_override" "46 46 46 255"
 		"selectedFgColor_override" "127 255 212 255"
 	}
 
@@ -1297,7 +1302,7 @@
 		"labelText"		"%numScout%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"46 46 46 255"
 	}	
 	
 	"numSoldier" [$WIN32]
@@ -1317,7 +1322,7 @@
 		"labelText"		"%numSoldier%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"46 46 46 255"
 	}		
 	
 	"numPyro" [$WIN32]
@@ -1337,7 +1342,7 @@
 		"labelText"		"%numPyro%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"46 46 46 255"
 	}			
 	
 	"numDemoman" [$WIN32]
@@ -1357,7 +1362,7 @@
 		"labelText"		"%numDemoman%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"46 46 46 255"
 	}				
 	
 	"numHeavy" [$WIN32]
@@ -1377,7 +1382,7 @@
 		"labelText"		"%numHeavy%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"46 46 46 255"
 	}					
 	
 	"numEngineer" [$WIN32]
@@ -1397,7 +1402,7 @@
 		"labelText"		"%numEngineer%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"46 46 46 255"
 	}						
 	
 	"numMedic" [$WIN32]
@@ -1417,7 +1422,7 @@
 		"labelText"		"%numMedic%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"46 46 46 255"
 	}							
 	
 	"numSniper" [$WIN32]
@@ -1437,7 +1442,7 @@
 		"labelText"		"%numSniper%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"46 46 46 255"
 	}						
 	
 	"numSpy" [$WIN32]
@@ -1457,7 +1462,7 @@
 		"labelText"		"%numSpy%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
-		"fgcolor"		"TanLight"
+		"fgcolor"		"46 46 46 255"
 	}								
 	
 	"MvMUpgradeImageScout"

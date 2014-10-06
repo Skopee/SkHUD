@@ -258,7 +258,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"0 0 0 200"
+		"fillcolor"		"255 255 255 25"
 		
 		
 		
@@ -284,7 +284,7 @@
 		"wrap"			"0"
 		"labelText"		"%tournamentstatelabel%"
 		"textAlignment"		"center"
-		"fgcolor_override"			"255 255 255 255"
+		"fgcolor_override"			"46 46 46 255"
 		
 		if_mvm
 		{
@@ -459,7 +459,7 @@
 		"wrap"			"0"
 		"labelText"		"%winconditions%"
 		"textAlignment"		"north-west"
-		"fgcolor_override"			"255 255 255 255"
+		"fgcolor_override"			"46 46 46 255"
 		
 		if_mvm
 		{
@@ -511,7 +511,7 @@
 		"wrap"			"0"
 		"labelText"		"%readylabel%"
 		"textAlignment"		"center"
-		"fgcolor_override"			"255 255 255 255"
+		"fgcolor_override"			"46 46 46 255"
 		
 		if_mvm
 		{

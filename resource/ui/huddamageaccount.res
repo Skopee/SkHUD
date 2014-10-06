@@ -9,15 +9,15 @@
 		"PositiveColor"			"255 255 0 255"
 		"NegativeColor"			"255 255 0 255"
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"Chelsea20"
-		"delta_item_font_big"	"Chelsea26"
+		"delta_item_font"		"MavenProMedium20"
+		"delta_item_font_big"	"MavenProMedium26"
 	}
-"DamageAccountValue"
+	"DamageAccountValue"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"DamageAccountValue"
-		"xpos"			"c-236"				
-		"ypos"			"395"				
+		"xpos"			"c-200"				
+		"ypos"			"400"				
 		"zpos"			"2"
 		"wide"			"100"
 		"tall"			"29"
@@ -27,14 +27,14 @@
 		"delta_lifetime"		"10.0"
 		"textAlignment"	"center"
 		"fgcolor"		"255 255 0 200"
-		"font"			"Chelsea20"			
+		"font"			"MavenProMedium20"			
 	}
 	"DamageAccountValueShadow"
 	{
 		"ControlName"	 	"CExLabel"
 		"fieldname"	 		"DamageAccountValueShadow"
-		"xpos"	 			"c-235"
-		"ypos"	 			"396"
+		"xpos"	 			"c-199"
+		"ypos"	 			"401"
 		"wide"	 			"100"
 		"tall"	 			"29"
 		"visible"			"1"
@@ -43,6 +43,6 @@
 		"delta_lifetime"	"10.0"
 		"textAlignment"	 	"center"
 		"fgcolor"	 		"0 0 0 200"
-		"font"	 			"Chelsea20"			
+		"font"	 			"MavenProMedium20"			
 	}
 }

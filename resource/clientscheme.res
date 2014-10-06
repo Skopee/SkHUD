@@ -46,6 +46,7 @@ Scheme
 		"DemomanPipeLabelShadow"						"0 0 0 200"
 		"MenuButton"									"46 46 46 255"	
 		"MenuButtonHover"								"127 255 212 255"
+		"MedicCharge"									"227 227 227 255"
 
 
 
@@ -2252,6 +2253,386 @@ Scheme
 				"antialias" 	"1"
 			}
 		}
+		//hud xhairs
+		"xHairCircle"
+		{
+			"1"
+			{
+				"name"		"Courier New"
+				"tall"		"72"
+				"weight"	"0"
+				"antialias"	"1"
+			}
+		}
+		
+		"xHairCircleOutline"
+		{
+			"1"
+			{
+				"name"		"Courier New"
+				"tall"		"72"
+				"weight"	"0"
+				"antialias"	"1"
+				"outline"	"1"
+			}
+		}
+
+		"Crosshairs8"
+		{
+			"1"
+			{
+			"name"			"Crosshairs"
+			"tall" 			"8"
+			"weight" 		"0"
+			"antialias" 	"1"
+			}
+		}
+		
+		"Crosshairs10"
+		{
+			"1"
+			{
+			"name"			"Crosshairs"
+			"tall" 			"10"
+			"weight" 		"0"
+			"antialias" 	"1"
+			}
+		}
+		
+		"Crosshairs12"
+		{
+			"1"
+			{
+			"name"			"Crosshairs"
+			"tall" 			"12"
+			"weight" 		"0"
+			"antialias" 	"1"
+			}
+		}
+		
+		"Crosshairs14"
+		{
+			"1"
+			{
+			"name"			"Crosshairs"
+			"tall" 			"14"
+			"weight" 		"0"
+			"antialias" 	"1"
+			}
+		}
+		
+		"Crosshairs16"
+		{
+			"1"
+			{
+			"name"			"Crosshairs"
+			"tall" 			"16"
+			"weight" 		"0"
+			"antialias" 	"1"
+			}
+		}
+		
+		"Crosshairs18"
+		{
+			"1"
+			{
+			"name"			"Crosshairs"
+			"tall" 			"18"
+			"weight" 		"0"
+			"antialias" 	"1"
+			}
+		}
+
+		"CrosshairsOutline18"
+		{
+			"1"
+			{
+			"name"			"Crosshairs"
+			"tall" 			"18"
+			"weight" 		"0"
+			"antialias" 	"1"
+			"outline"		"1"
+			}
+		}
+		
+		"Crosshairs20"
+		{
+			"1"
+			{
+			"name"			"Crosshairs"
+			"tall" 			"20"
+			"weight" 		"0"
+			"antialias" 	"1"
+			}
+		}
+		
+		"Crosshairs22"
+		{
+			"1"
+			{
+			"name"			"Crosshairs"
+			"tall" 			"22"
+			"weight" 		"0"
+			"antialias" 	"1"
+			}
+		}
+		
+		"Crosshairs24"
+		{
+			"1"
+			{
+			"name"			"Crosshairs"
+			"tall" 			"24"
+			"weight" 		"0"
+			"antialias" 	"1"
+			}
+		}
+		
+		"CrosshairsOutline24"
+		{
+			"1"
+			{
+			"name"			"Crosshairs"
+			"tall" 			"24"
+			"weight" 		"0"
+			"antialias" 	"1"
+			"outline"		"1"
+			}
+		}
+		
+		"Crosshairs26"
+		{
+			"1"
+			{
+			"name"			"Crosshairs"
+			"tall" 			"26"
+			"weight" 		"0"
+			"antialias" 	"1"
+			}
+		}
+		
+		"CrosshairsOutline26"
+		{
+			"1"
+			{
+			"name"			"Crosshairs"
+			"tall" 			"26"
+			"weight" 		"0"
+			"antialias" 	"1"
+			"outline"		"1"
+			}
+		}
+		
+		"Crosshairs28"
+		{
+			"1"
+			{
+			"name"			"Crosshairs"
+			"tall" 			"28"
+			"weight" 		"0"
+			"antialias" 	"1"
+			}
+		}
+		
+		"Crosshairs30"
+		{
+			"1"
+			{
+			"name"			"Crosshairs"
+			"tall" 			"30"
+			"weight" 		"0"
+			"antialias" 	"1"
+			}
+		}
+		
+		"Crosshairs32"
+		{
+			"1"
+			{
+			"name"			"Crosshairs"
+			"tall" 			"32"
+			"weight" 		"0"
+			"antialias" 	"1"
+			}
+		}
+
+		"CrosshairsOutline32"
+		{
+			"1"
+			{
+			"name"			"Crosshairs"
+			"tall" 			"32"
+			"weight" 		"0"
+			"antialias" 	"1"
+			"outline"		"1"
+			}
+		}
+		
+		"Crosshairs34"
+		{
+			"1"
+			{
+			"name"			"Crosshairs"
+			"tall" 			"34"
+			"weight" 		"0"
+			"antialias" 	"1"
+			}
+		}
+		
+		"CrosshairsOutline34"
+		{
+			"1"
+			{
+			"name"			"Crosshairs"
+			"tall" 			"34"
+			"weight" 		"0"
+			"antialias" 	"1"
+			"outline"		"1"
+			}
+		}
+		
+		"Crosshairs36"
+		{
+			"1"
+			{
+			"name"			"Crosshairs"
+			"tall" 			"36"
+			"weight" 		"0"
+			"antialias" 	"1"
+			}
+		}
+		
+		"Crosshairs38"
+		{
+			"1"
+			{
+			"name"			"Crosshairs"
+			"tall" 			"38"
+			"weight" 		"0"
+			"antialias" 	"1"
+			}
+		}
+		
+		"Crosshairs40"
+		{
+			"1"
+			{
+			"name"			"Crosshairs"
+			"tall" 			"40"
+			"weight" 		"0"
+			"antialias" 	"1"
+			}
+		}
+		
+		"Symbol16"
+		{
+			"1"
+			{
+			"name"			"Symbol"
+			"tall"			"16"
+			"weight"		"0"
+			"antialias"		"1"
+			}
+		}
+		
+		"Symbol24"
+		{
+			"1"
+			{
+			"name"			"Symbol"
+			"tall"			"24"
+			"weight"		"0"
+			"antialias"		"1"
+			}
+		}
+		
+		"SymbolOutline24"
+		{
+			"1"
+			{
+			"name"			"Symbol"
+			"tall"			"24"
+			"weight"		"0"
+			"antialias"		"1"
+			"outline"		"1"
+			}
+		}
+		
+		"Symbol32"
+		{
+			"1"
+			{
+			"name"			"Symbol"
+			"tall"			"32"
+			"weight"		"0"
+			"antialias"		"1"
+			}
+		}
+		
+		"Symbol40"
+		{
+			"1"
+			{
+			"name"			"Symbol"
+			"tall"			"40"
+			"weight"		"0"
+			"antialias"		"1"
+			}
+		}
+		"KonrWings16"
+		{
+			"1"
+			{
+			"name"			"Garm3nFont"
+			"tall"			"16"
+			"weight"		"0"
+			"antialias"		"1"
+			}
+		}
+		"KonrWings24"
+		{
+			"1"
+			{
+			"name"			"Garm3nFont"
+			"tall"			"24"
+			"weight"		"0"
+			"antialias"		"1"
+			}
+		}
+		"KonrWingsOutline24"
+		{
+			"1"
+			{
+			"name"			"Garm3nFont"
+			"tall"			"24"
+			"weight"		"0"
+			"antialias"		"1"
+			"outline"		"1"
+			}
+		}
+		"KonrWings32"
+		{
+			"1"
+			{
+			"name"			"Garm3nFont"
+			"tall"			"32"
+			"weight"		"0"
+			"antialias"		"1"
+			}
+		}
+		"KonrWings40"
+		{
+			"1"
+			{
+			"name"			"Garm3nFont"
+			"tall"			"40"
+			"weight"		"0"
+			"antialias"		"1"
+			}
+		}
+		
+		
+		
 		///////////////////////////////Custom Fonts Start////////////////////////////////////
 		"Champagne6"
 		{
@@ -4185,6 +4566,277 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+		"MavenProMedium12"
+		{
+			"1"
+			{
+				"name"		"MavenProMedium"
+				"tall"		"12"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"MavenProMedium14"
+		{
+			"1"
+			{
+				"name"		"MavenProMedium"
+				"tall"		"14"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"MavenProMedium16"
+		{
+			"1"
+			{
+				"name"		"MavenProMedium"
+				"tall"		"16"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"MavenProMedium18"
+		{
+			"1"
+			{
+				"name"		"MavenProMedium"
+				"tall"		"18"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"MavenProMedium20"
+		{
+			"1"
+			{
+				"name"		"MavenProMedium"
+				"tall"		"20"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"MavenProMedium22"
+		{
+			"1"
+			{
+				"name"		"MavenProMedium"
+				"tall"		"22"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"MavenProMedium24"
+		{
+			"1"
+			{
+				"name"		"MavenProMedium"
+				"tall"		"24"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"MavenProMedium26"
+		{
+			"1"
+			{
+				"name"		"MavenProMedium"
+				"tall"		"26"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"MavenProMedium28"
+		{
+			"1"
+			{
+				"name"		"MavenProMedium"
+				"tall"		"28"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"MavenProMedium30"
+		{
+			"1"
+			{
+				"name"		"MavenProMedium"
+				"tall"		"30"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"MavenProMedium32"
+		{
+			"1"
+			{
+				"name"		"MavenProMedium"
+				"tall"		"32"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"MavenProMedium34"
+		{
+			"1"
+			{
+				"name"		"MavenProMedium"
+				"tall"		"34"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"MavenProMedium36"
+		{
+			"1"
+			{
+				"name"		"MavenProMedium"
+				"tall"		"36"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"MavenProMedium38"
+		{
+			"1"
+			{
+				"name"		"MavenProMedium"
+				"tall"		"38"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"MavenProMedium40"
+		{
+			"1"
+			{
+				"name"		"MavenProMedium"
+				"tall"		"40"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"MavenProMedium42"
+		{
+			"1"
+			{
+				"name"		"MavenProMedium"
+				"tall"		"42"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"MavenProMedium44"
+		{
+			"1"
+			{
+				"name"		"MavenProMedium"
+				"tall"		"44"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"MavenProMedium46"
+		{
+			"1"
+			{
+				"name"		"MavenProMedium"
+				"tall"		"46"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"MavenProMedium48"
+		{
+			"1"
+			{
+				"name"		"MavenProMedium"
+				"tall"		"48"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"MavenProMedium50"
+		{
+			"1"
+			{
+				"name"		"MavenProMedium"
+				"tall"		"50"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"MavenProMedium52"
+		{
+			"1"
+			{
+				"name"		"MavenProMedium"
+				"tall"		"52"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"MavenProMedium54"
+		{
+			"1"
+			{
+				"name"		"MavenProMedium"
+				"tall"		"54"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"MavenProMedium56"
+		{
+			"1"
+			{
+				"name"		"MavenProMedium"
+				"tall"		"56"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"MavenProMedium58"
+		{
+			"1"
+			{
+				"name"		"MavenProMedium"
+				"tall"		"58"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"MavenProMedium60"
+		{
+			"1"
+			{
+				"name"		"MavenProMedium"
+				"tall"		"60"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"MavenProMedium62"
+		{
+			"1"
+			{
+				"name"		"MavenProMedium"
+				"tall"		"62"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"MavenProMedium64"
+		{
+			"1"
+			{
+				"name"		"MavenProMedium"
+				"tall"		"64"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		
 		//
 		//////////////////// REPLAY FONTS //////////////////////////////
 		//
@@ -6362,6 +7014,26 @@ Scheme
 		{
 			"font" "resource/fonts/Entypo.otf"
 			"name" "Entypo"
+		}
+		"19"
+		{
+			"font" "resource/fonts/Maven Pro Medium.otf"
+			"name" "MavenProMedium"
+		}
+		"20" // Fog's xHairs
+		{
+			"font" "resource/fonts/crosshairs.ttf"
+			"name" "Crosshairs"
+		}
+		"21" // Thin Cross
+		{
+			"font" "resource/fonts/Symbol.ttf"
+			"name" "Symbol"
+		}
+		"22" // Konr Wings
+		{
+			"font" "resource/fonts/Garm3nFont.ttf"
+			"name" "Garm3nFont"
 		}
 		
 	}
