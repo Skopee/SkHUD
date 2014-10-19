@@ -43,7 +43,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor" "255 255 255 25"
+		"fillcolor" "255 255 255 5"
 	}
 	"random"
 	{
@@ -69,10 +69,10 @@
 		"image_default"		"class_sel_sm_random_inactive"
 		"image_armed"		"class_sel_sm_random_inactive"
 		
-		"fgcolor"			"46 46 46 255"
-		"defaultFgColor_override" "46 46 46 255"
+		"fgcolor"			"227 227 227 255"
+		"defaultFgColor_override" "227 227 227 255"
 		"armedFgColor_override" "127 255 212 255"
-		"depressedFgColor_override" "46 46 46 255"
+		"depressedFgColor_override" "227 227 227 255"
 		"selectedFgColor_override" "127 255 212 255"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -127,9 +127,9 @@
 		"paintbackground"	"0"
 		"font"			"Champagne8"
 		"fgcolor"			"Select"
-		"defaultFgColor_override" "46 46 46 255"
+		"defaultFgColor_override" "227 227 227 255"
 		"armedFgColor_override" "127 255 212 255"
-		"depressedFgColor_override" "46 46 46 255"
+		"depressedFgColor_override" "227 227 227 255"
 		"selectedFgColor_override" "127 255 212 255"
 	}
 		
@@ -188,10 +188,10 @@
 		"image_default"		"class_sel_sm_scout_inactive"
 		"image_armed"		"class_sel_sm_scout_inactive"
 		
-		"fgcolor"			"46 46 46 255"
-		"defaultFgColor_override" "46 46 46 255"
+		"fgcolor"			"227 227 227 255"
+		"defaultFgColor_override" "227 227 227 255"
 		"armedFgColor_override" "127 255 212 255"
-		"depressedFgColor_override" "46 46 46 255"
+		"depressedFgColor_override" "227 227 227 255"
 		"selectedFgColor_override" "127 255 212 255"
 			
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -252,10 +252,10 @@
 		"image_default"		"class_sel_sm_soldier_inactive"
 		"image_armed"		"class_sel_sm_soldier_inactive"
 		
-		"fgcolor"			"46 46 46 255"
-		"defaultFgColor_override" "46 46 46 255"
+		"fgcolor"			"227 227 227 255"
+		"defaultFgColor_override" "227 227 227 255"
 		"armedFgColor_override" "127 255 212 255"
-		"depressedFgColor_override" "46 46 46 255"
+		"depressedFgColor_override" "227 227 227 255"
 		"selectedFgColor_override" "127 255 212 255"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -316,10 +316,10 @@
 		"image_default"		"class_sel_sm_pyro_inactive"
 		"image_armed"		"class_sel_sm_pyro_inactive"
 		
-		"fgcolor"			"46 46 46 255"
-		"defaultFgColor_override" "46 46 46 255"
+		"fgcolor"			"227 227 227 255"
+		"defaultFgColor_override" "227 227 227 255"
 		"armedFgColor_override" "127 255 212 255"
-		"depressedFgColor_override" "46 46 46 255"
+		"depressedFgColor_override" "227 227 227 255"
 		"selectedFgColor_override" "127 255 212 255"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -406,10 +406,10 @@
 		"image_default"		"class_sel_sm_demo_inactive"
 		"image_armed"		"class_sel_sm_demo_inactive"
 		
-		"fgcolor"			"46 46 46 255"
-		"defaultFgColor_override" "46 46 46 255"
+		"fgcolor"			"227 227 227 255"
+		"defaultFgColor_override" "227 227 227 255"
 		"armedFgColor_override" "127 255 212 255"
-		"depressedFgColor_override" "46 46 46 255"
+		"depressedFgColor_override" "227 227 227 255"
 		"selectedFgColor_override" "127 255 212 255"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -469,10 +469,10 @@
 		"image_default"		"class_sel_sm_heavy_inactive"
 		"image_armed"		"class_sel_sm_heavy_inactive"
 		
-		"fgcolor"			"46 46 46 255"
-		"defaultFgColor_override" "46 46 46 255"
+		"fgcolor"			"227 227 227 255"
+		"defaultFgColor_override" "227 227 227 255"
 		"armedFgColor_override" "127 255 212 255"
-		"depressedFgColor_override" "46 46 46 255"
+		"depressedFgColor_override" "227 227 227 255"
 		"selectedFgColor_override" "127 255 212 255"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -531,10 +531,10 @@
 		"image_default"		"class_sel_sm_engineer_inactive"
 		"image_armed"		"class_sel_sm_engineer_inactive"
 		
-		"fgcolor"			"46 46 46 255"
-		"defaultFgColor_override" "46 46 46 255"
+		"fgcolor"			"227 227 227 255"
+		"defaultFgColor_override" "227 227 227 255"
 		"armedFgColor_override" "127 255 212 255"
-		"depressedFgColor_override" "46 46 46 255"
+		"depressedFgColor_override" "227 227 227 255"
 		"selectedFgColor_override" "127 255 212 255"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -622,10 +622,10 @@
 		"image_default"		"class_sel_sm_medic_inactive"
 		"image_armed"		"class_sel_sm_medic_inactive"
 		
-		"fgcolor"			"46 46 46 255"
-		"defaultFgColor_override" "46 46 46 255"
+		"fgcolor"			"227 227 227 255"
+		"defaultFgColor_override" "227 227 227 255"
 		"armedFgColor_override" "127 255 212 255"
-		"depressedFgColor_override" "46 46 46 255"
+		"depressedFgColor_override" "227 227 227 255"
 		"selectedFgColor_override" "127 255 212 255"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -686,10 +686,10 @@
 		"image_default"		"class_sel_sm_sniper_inactive"
 		"image_armed"		"class_sel_sm_sniper_inactive"
 		
-		"fgcolor"			"46 46 46 255"
-		"defaultFgColor_override" "46 46 46 255"
+		"fgcolor"			"227 227 227 255"
+		"defaultFgColor_override" "227 227 227 255"
 		"armedFgColor_override" "127 255 212 255"
-		"depressedFgColor_override" "46 46 46 255"
+		"depressedFgColor_override" "227 227 227 255"
 		"selectedFgColor_override" "127 255 212 255"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -750,10 +750,10 @@
 		"image_default"		"class_sel_sm_spy_inactive"
 		"image_armed"		"class_sel_sm_spy_inactive"
 		
-		"fgcolor"			"46 46 46 255"
-		"defaultFgColor_override" "46 46 46 255"
+		"fgcolor"			"227 227 227 255"
+		"defaultFgColor_override" "227 227 227 255"
 		"armedFgColor_override" "127 255 212 255"
-		"depressedFgColor_override" "46 46 46 255"
+		"depressedFgColor_override" "227 227 227 255"
 		"selectedFgColor_override" "127 255 212 255"
 		
 		"sound_depressed"	"UI/buttonclick.wav"
@@ -805,9 +805,9 @@
 		"Command"		"vguicancel"
 		"font"			"Champagne8"
 		"paintbackground"		"0"
-		"defaultFgColor_override" "46 46 46 255"
+		"defaultFgColor_override" "227 227 227 255"
 		"armedFgColor_override" "127 255 212 255"
-		"depressedFgColor_override" "46 46 46 255"
+		"depressedFgColor_override" "227 227 227 255"
 		"selectedFgColor_override" "127 255 212 255"
 	}
 	"CancelButtonLetter"  
@@ -832,9 +832,9 @@
 		"paintbackground"	"0"
 		"font"			"Champagne8"
 		
-			"defaultFgColor_override" "46 46 46 255"
+			"defaultFgColor_override" "227 227 227 255"
 		"armedFgColor_override" "127 255 212 255"
-		"depressedFgColor_override" "46 46 46 255"
+		"depressedFgColor_override" "227 227 227 255"
 		"selectedFgColor_override" "127 255 212 255"
 	}
 	
@@ -857,9 +857,9 @@
 		"Command"		"openloadout"
 		"font"			"Champagne8"
 		"paintbackground" "0"
-		"defaultFgColor_override" "46 46 46 255"
+		"defaultFgColor_override" "227 227 227 255"
 		"armedFgColor_override" "127 255 212 255"
-		"depressedFgColor_override" "46 46 46 255"
+		"depressedFgColor_override" "227 227 227 255"
 		"selectedFgColor_override" "127 255 212 255"
 	}
 	
@@ -885,9 +885,9 @@
 		"paintbackground"	"0"
 		"font"			"Champagne8"
 		
-		"defaultFgColor_override" "46 46 46 255"
+		"defaultFgColor_override" "227 227 227 255"
 		"armedFgColor_override" "127 255 212 255"
-		"depressedFgColor_override" "46 46 46 255"
+		"depressedFgColor_override" "227 227 227 255"
 		"selectedFgColor_override" "127 255 212 255"
 	}
 
@@ -1302,7 +1302,7 @@
 		"labelText"		"%numScout%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
-		"fgcolor"		"46 46 46 255"
+		"fgcolor"		"227 227 227 255"
 	}	
 	
 	"numSoldier" [$WIN32]
@@ -1322,7 +1322,7 @@
 		"labelText"		"%numSoldier%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
-		"fgcolor"		"46 46 46 255"
+		"fgcolor"		"227 227 227 255"
 	}		
 	
 	"numPyro" [$WIN32]
@@ -1342,7 +1342,7 @@
 		"labelText"		"%numPyro%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
-		"fgcolor"		"46 46 46 255"
+		"fgcolor"		"227 227 227 255"
 	}			
 	
 	"numDemoman" [$WIN32]
@@ -1362,7 +1362,7 @@
 		"labelText"		"%numDemoman%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
-		"fgcolor"		"46 46 46 255"
+		"fgcolor"		"227 227 227 255"
 	}				
 	
 	"numHeavy" [$WIN32]
@@ -1382,7 +1382,7 @@
 		"labelText"		"%numHeavy%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
-		"fgcolor"		"46 46 46 255"
+		"fgcolor"		"227 227 227 255"
 	}					
 	
 	"numEngineer" [$WIN32]
@@ -1402,7 +1402,7 @@
 		"labelText"		"%numEngineer%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
-		"fgcolor"		"46 46 46 255"
+		"fgcolor"		"227 227 227 255"
 	}						
 	
 	"numMedic" [$WIN32]
@@ -1422,7 +1422,7 @@
 		"labelText"		"%numMedic%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
-		"fgcolor"		"46 46 46 255"
+		"fgcolor"		"227 227 227 255"
 	}							
 	
 	"numSniper" [$WIN32]
@@ -1442,7 +1442,7 @@
 		"labelText"		"%numSniper%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
-		"fgcolor"		"46 46 46 255"
+		"fgcolor"		"227 227 227 255"
 	}						
 	
 	"numSpy" [$WIN32]
@@ -1462,7 +1462,7 @@
 		"labelText"		"%numSpy%"
 		"textAlignment"	"center"
 		"font"			"MenuClassBuckets"
-		"fgcolor"		"46 46 46 255"
+		"fgcolor"		"227 227 227 255"
 	}								
 	
 	"MvMUpgradeImageScout"

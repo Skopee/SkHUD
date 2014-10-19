@@ -1372,9 +1372,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-59"	[$WIN32]
-		"ypos"			"r100"	[$WIN32]
+		"ypos"			"r150"	[$WIN32]
 		"wide"			"118"
-		"tall"			"50"
+		"tall"			"200"
 	}	
 
 	HudTeamGoal

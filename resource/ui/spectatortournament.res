@@ -14,8 +14,8 @@
 		"tall"			"2"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"fillcolor" "88 133 162 200"
 	}
 		"RedScoreBG"
@@ -32,8 +32,8 @@
 		"tall"			"2"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"fillcolor" "184 56 59 200"
 	}
 	"specgui"
@@ -47,9 +47,9 @@
 		"enabled"		"1"
 				
 		"team1_player_base_offset_x"		"0"
-		"team1_player_base_y"				"222"
+		"team1_player_base_y"				"400"
 		"team1_player_delta_x"				"0"
-		"team1_player_delta_y"				"-14"
+		"team1_player_delta_y"				"-20"
 		
 		"team2_player_base_offset_x"		"0"
 		"team2_player_base_y"				"241"
@@ -59,7 +59,7 @@
 		{
 			"visible"		"0"
 			"wide"			"160"
-			"tall"			"14"
+			"tall"			"30"
 			"zpos"			"-1"
 			"paintborder"	"0"
 			"color_ready"	"0 255 0 220"
@@ -69,10 +69,10 @@
 			{
 				"ControlName" "ImagePanel"
 				"fieldName"   "BG"
-				"xpos"        "10"
+				"xpos"        "0"
 				"ypos"        "0"
 				"zpos"        "1"
-				"wide"        "95"	//66
+				"wide"        "200"	//66
 				"tall"        "14"
 				"autoResize"		"0"
 				"pinCorner"		"0"
@@ -80,6 +80,7 @@
 				"visible"			"1"
 				"enabled"			"1"
 			}
+			
 
 			
 		
@@ -87,11 +88,11 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"playername"
-				"font"			"Champagne10"
+				"font"			"Chelsea10"
 				"xpos"			"50"
 				"ypos"			"2"
 				"zpos"			"5"
-				"wide"			"50"
+				"wide"			"80"
 				"tall"			"8"
 				"autoResize"	"0"
 				"pinCorner"		"0"
@@ -99,22 +100,14 @@
 				"labelText"		"%playername%"
 				"textAlignment"	"north-west"
 				"fgcolor"		"255 255 255 255"
-					
-				if_mvm
-				{
-					"xpos"				"0"
-					"ypos"				"25"
-					"wide"				"55"
-					"textAlignment"		"center"
-					"font"				"PlayerPanelPlayerName"
-				}
+
 			}
 			
 			"classimage"
 			{
 				"ControlName"	"CTFClassImage"
 				"fieldName"		"classimage"
-				"xpos"			"10"
+				"xpos"			"2"
 				"ypos"			"0"
 				"zpos"			"2"
 				"wide"			"13"
@@ -141,16 +134,16 @@
 				"xpos"			"10"
 				"ypos"			"0"
 				"zpos"			"2"
-				"wide"			"15"
-				"tall"			"15"
-				"visible"		"1"
-				"enabled"		"1"
-				"bgcolor_override"		"255 255 255 100"
+				"wide"			"0"
+				"tall"			"0"
+				"visible"		"0"
+				"enabled"		"0"
+				"bgcolor_override"		"46 46 0 100"
 				"PaintBackgroundType"	"0"
 				
 				if_mvm
 				{
-					"visible"		"1"
+					"visible"		"0"
 				}
 			}
 			
@@ -221,13 +214,13 @@
 				}
 			}
 			
-			"respawntime"
+				"respawntime"
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"respawntime"
-				"font"			"DefaultSmall"
-				"xpos"			"30"
-				"ypos"			"18"
+				"font"			"Cerbetica12"
+				"xpos"			"2"
+				"ypos"			"3"
 				"zpos"			"5"
 				"wide"			"23"
 				"tall"			"10"
@@ -236,30 +229,26 @@
 				"visible"		"1"
 				"labelText"		"%respawntime%"
 				"textAlignment"	"west"
-				//"fgcolor"		"235 226 202 255"
+				"fgcolor"		"255 200 0 255"
 				
-				if_mvm
-				{
-					"ypos"			"17"
-				}
 			}
 			
 			"chargeamount"
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"chargeamount"
-				"font"			"DefaultSmall"
-				"xpos"			"25"
-				"ypos"			"17"
+				"font"			"Chelsea10"
+				"xpos"			"130"
+				"ypos"			"0"
 				"zpos"			"6"
 				"wide"			"25"
-				"tall"			"15"
+				"tall"			"13"
 				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"
 				"labelText"		"%chargeamount%"
-				"textAlignment"	"north"
-				"fgcolor"		"0 255 0 255"
+				"textAlignment"	"east"
+				"fgcolor"		"0 255 255 255"
 			}
 			
 			"specindex"
@@ -270,8 +259,8 @@
 				"xpos"			"-20"
 				"ypos"			"2"
 				"zpos"			"5"
-				"wide"			"50"
-				"tall"			"8"
+				"wide"			"0"
+				"tall"			"0"
 				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"

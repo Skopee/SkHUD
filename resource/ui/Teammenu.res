@@ -24,8 +24,8 @@
 		"zpos"			"0"
 		"wide"			"220"
 		"tall"			"40"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"fillcolor"		"255 255 255 25"
 	}
 	"RedTeamBG"
@@ -50,8 +50,8 @@
 		"zpos"			"-50"
 		"wide"			"220"
 		"tall"			"20"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"fillcolor"		"255 255 255 25"
 	}
 	"SpectateBackground"
@@ -63,8 +63,8 @@
 		"zpos"			"0"
 		"wide"			"220"
 		"tall"			"20"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"fillcolor"		"255 255 255 25"
 	}
 	
@@ -142,9 +142,9 @@
 		"team"				"3"		// team blue
 		"font"			"Champagne16"
 		"defaultFgColor_override" 	"88 133 162 200"
-		"armedFgColor_override"		"255 255 255 255"
+		"armedFgColor_override"		"150 150 150 255"
 		"depressedFgColor_override" "88 133 162 200"
-		"selectedFgColor_override" 	"255 255 255 255"
+		"selectedFgColor_override" 	"150 150 150 255"
 	}
 
 	"teambutton1"
@@ -169,9 +169,9 @@
 		"team"				"4"		// team red
 		"font"			"Champagne16"
 		"defaultFgColor_override" 	"184 56 59 200"
-		"armedFgColor_override"		"255 255 255 255"
+		"armedFgColor_override"		"150 150 150 255"
 		"depressedFgColor_override" "184 56 59 200"
-		"selectedFgColor_override" 	"255 255 255 255"
+		"selectedFgColor_override" 	"150 150 150 255"
 	}
 
 	"teambutton2"
@@ -195,10 +195,10 @@
 		"paintborder"	"0"
 		"command"		"jointeam auto"
 		"font"			"Champagne16"
-		"defaultFgColor_override" 	"46 46 46 255"
-		"armedFgColor_override"		"255 255 255 255"
-		"depressedFgColor_override" "46 46 46 255"
-		"selectedFgColor_override" 	"255 255 255 255"
+		"defaultFgColor_override" 	"227 227 227 255"
+		"armedFgColor_override"		"150 150 150 255"
+		"depressedFgColor_override" "227 227 227 255"
+		"selectedFgColor_override" 	"150 150 150 255"
 	}
 	
 	"teambutton3"
@@ -222,10 +222,10 @@
 		"paintborder"	"0"
 		"command"		"jointeam spectate"
 		"font"			"Champagne16"
-		"defaultFgColor_override" 	"46 46 46 255"
-		"armedFgColor_override"		"255 255 255 255"
-		"depressedFgColor_override" "46 46 46 255"
-		"selectedFgColor_override" 	"255 255 255 255"
+		"defaultFgColor_override" 	"227 227 227 255"
+		"armedFgColor_override"		"150 150 150 255"
+		"depressedFgColor_override" "227 227 227 255"
+		"selectedFgColor_override" 	"150 150 150 255"
 	}
 	
 	"CancelButton" [$WIN32] 
