@@ -85,6 +85,14 @@
 			"default"		"1"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
+			"defaultFgColor_override" "127 127 127 255"
+			"armedFgColor_override" "127 255 212 255"
+			"depressedFgColor_override" "127 255 212 255"
+			"defaultBgColor_override" "0 0 0 0"
+			"armedBgColor_override" "0 0 0 0"
+			"depressedBgColor_override" "0 0 0 0"
+			"image_drawcolor"	"46 46 46 255"
+			"image_armedcolor"	"127 255 212 255"
 		}
 	}
 	
@@ -282,6 +290,7 @@
 		"noitem_textcolor"		"127 127 127 255"
 		"PaintBackgroundType"	"2"
 		"paintborder"	"1"
+		"paintbackground"		"1"
 		
 		"BackColor"
     	{
@@ -298,6 +307,7 @@
 			"autoResize"	"0"
 			"PaintBackgroundType"	"2"
 			"border"		"NoBorder"
+			"paintbackground"		"1"
 			"bgcolor_override"	"46 46 46 50"
     	}
 		
@@ -465,7 +475,8 @@
 		"tall"			"75"
 		"autoResize"	"1"
 		"visible"		"0"
-		"bgcolor_override"		"69 64 63 255"
+		"bgcolor_override"		"127 127 127 255"
+		"fgcolor_override"		"127 127 127 255"
 		"PaintBackgroundType"	"2"
 	}
 

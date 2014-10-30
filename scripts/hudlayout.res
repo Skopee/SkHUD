@@ -1198,8 +1198,8 @@
 		"fieldName"				"WinPanel"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"c130"
-		"ypos"					"120"
+		"xpos"					"r170"
+		"ypos"					"150"
 		"wide"					"300"
 		"tall"					"300"
 	}

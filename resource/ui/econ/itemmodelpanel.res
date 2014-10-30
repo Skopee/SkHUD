@@ -28,6 +28,7 @@
 		"tall"			"f0"
 		"visible"		"1"
 		"bgcolor_override"		"0 0 0 0"
+		"border"		"NoBorder"
 
 		"itemmodelpanel"
 		{
@@ -45,13 +46,13 @@
 			"enabled"		"1"
 			"useparentbg"		"1"
 		
-			"inset_eq_x"	"2"
-			"inset_eq_y"	"2"
-
+			"inset_eq_x"	"0"
+			"inset_eq_y"	"0"
+			"border"		"NoBorder"
 			"fov"			"54"
-			"start_framed"		"1"
+			"start_framed"		"0"
 
-			"disable_manipulation"	"1"
+			"disable_manipulation"	"0"
 
 			"model"
 			{
@@ -98,6 +99,7 @@
 			"textAlignment"	"south"
 			"fgcolor"		"117 107 94 255"
 			"centerwrap"	"1"
+			"border"		"NoBorder"
 		}
 	
 		"equippedlabel"
@@ -119,6 +121,7 @@
 			"fgcolor"		"200 80 60 255"
 			"bgcolor_override"		"0 0 0 255"
 			"PaintBackgroundType"	"2"
+			"border"		"NoBorder"
 		}
 	
 		"paint_icon"
@@ -154,6 +157,7 @@
 			"fgcolor"		"200 80 60 255"
 			"bgcolor_override"		"0 0 0 255"
 			"PaintBackgroundType"	"2"
+			"border"		"NoBorder"
 		}
 
 		"serieslabel"
@@ -175,6 +179,7 @@
 			"fgcolor"		"200 180 60 255"
 			"bgcolor_override"		"0 40 30 255"
 			"PaintBackgroundType"	"2"
+			"border"		"NoBorder"
 		}
 
 		"matcheslabel"
@@ -196,6 +201,7 @@
 			"fgcolor"		"200 180 60 255"
 			"bgcolor_override"		"0 40 30 255"
 			"PaintBackgroundType"	"2"
+			"border"		"NoBorder"
 		}
 
 		"vision_restriction_icon"

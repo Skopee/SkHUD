@@ -204,7 +204,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"HudLabel"
 		"font"			"Champagne18"
-		"labelText"		"skHUD v.06"
+		"labelText"		"skHUD v .1"
 		"textAlignment"	"center"
 		"xpos"			"c-50"
 		"ypos"			"10"
