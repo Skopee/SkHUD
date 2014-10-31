@@ -47,18 +47,18 @@
 		"enabled"		"1"
 				
 		"team1_player_base_offset_x"		"0"
-		"team1_player_base_y"				"400"
+		"team1_player_base_y"				"350"
 		"team1_player_delta_x"				"0"
-		"team1_player_delta_y"				"-20"
+		"team1_player_delta_y"				"-15"
 		
 		"team2_player_base_offset_x"		"0"
-		"team2_player_base_y"				"241"
+		"team2_player_base_y"				"250"
 		"team2_player_delta_x"				"0"
-		"team2_player_delta_y"				"14"
+		"team2_player_delta_y"				"-15"
 		"playerpanels_kv"
 		{
 			"visible"		"0"
-			"wide"			"160"
+			"wide"			"200"
 			"tall"			"30"
 			"zpos"			"-1"
 			"paintborder"	"0"
@@ -76,7 +76,7 @@
 				"tall"        "14"
 				"autoResize"		"0"
 				"pinCorner"		"0"
-				"fillcolor"		"0 0 0 200"		
+				"fillcolor"		"127 127 127 200"		
 				"visible"			"1"
 				"enabled"			"1"
 			}
@@ -88,12 +88,12 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"playername"
-				"font"			"Chelsea10"
+				"font"			"Champagne12"
 				"xpos"			"50"
 				"ypos"			"2"
 				"zpos"			"5"
-				"wide"			"80"
-				"tall"			"8"
+				"wide"			"120"
+				"tall"			"20"
 				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"1"
@@ -160,9 +160,9 @@
 				"enabled"			"1"	
 				"HealthBonusPosAdj"	"10"
 				"HealthDeathWarning"		"0.49"
-				"TFFont"					"HudFontSmallest"
+				"TFFont"					"Champagne12"
 				"HealthDeathWarningColor"	"HUDDeathWarning"
-				"TextColor"					"HudOffWhite"
+				"TextColor"					"255 255 255 255"
 			}
 			
 			"ReadyBG"
@@ -237,8 +237,8 @@
 			{
 				"ControlName"	"CExLabel"
 				"fieldName"		"chargeamount"
-				"font"			"Chelsea10"
-				"xpos"			"130"
+				"font"			"Champagne12"
+				"xpos"			"170"
 				"ypos"			"0"
 				"zpos"			"6"
 				"wide"			"25"
@@ -250,6 +250,7 @@
 				"textAlignment"	"east"
 				"fgcolor"		"0 255 255 255"
 			}
+		
 			
 			"specindex"
 			{

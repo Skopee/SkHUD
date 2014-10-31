@@ -68,7 +68,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"Chelsea10"
-		"fgcolor"		"225 225 255 225"
+		"font"			"Champagne12"
+		"fgcolor"		"255 255 255 225"
 	}				
 }

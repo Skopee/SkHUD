@@ -22,13 +22,13 @@ Scheme
 	///////////////////////////////////////////////
 		//////////////Customization Start//////////////
 		///////////////////////////////////////////////
-		"HealthValue"									"227 227 227 255"				
+		"HealthValue"									"255 255 255 255"				
 		"HealthValueShadow"								"0 0 0 255"
-		"AmmoInClip"									"227 227 227 255"
+		"AmmoInClip"									"255 255 255 255"
 		"AmmoInClipShadow"								"0 0 0 255"
 		"AmmoInReserve"									"127 255 212 255"
 		"AmmoInReserveShadow"							"0 0 0 255"
-		"AmmoNoClip"									"227 227 227 255"
+		"AmmoNoClip"									"255 255 255 255"
 		"AmmoNoClipShadow"								"0 0 0 255"
 		"KillstreakCounter"								"255 255 255 255"
 		"KillstreakCounterLabel"						"255 255 225 255"
@@ -46,7 +46,7 @@ Scheme
 		"DemomanPipeLabelShadow"						"0 0 0 200"
 		"MenuButton"									"46 46 46 255"	
 		"MenuButtonHover"								"127 255 212 255"
-		"MedicCharge"									"227 227 227 255"
+		"MedicCharge"									"255 255 255 255"
 
 
 

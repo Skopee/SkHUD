@@ -40,7 +40,7 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"fillcolor"		"0 0 0 200"
+		"fillcolor"		"0 0 0 0"
 	}
 	"TargetIDBG_Spec_Red"
 	{
@@ -55,7 +55,7 @@
 		"pinCorner"		"0"
 		"visible"		"0"
 		"enabled"		"1"
-		"fillcolor"		"0 0 0 200"
+		"fillcolor"		"0 0 0 0"
 	}
 	"TargetBG"
 	{
@@ -64,13 +64,13 @@
 		"xpos" 		"0"
 		"ypos" 		"0"
 		"zpos" 		"-2"
-		"wide" 		"600"
-		"tall" 		"40"
+		"wide" 		"0"
+		"tall" 		"0"
 		"autoResize" "0"
 		"pinCorner" "0"
-		"visible" 	"1"
-		"enabled" 	"1"
-		"fillcolor" "0 0 0 200"	
+		"visible" 	"0"
+		"enabled" 	"0"
+		"fillcolor" "0 0 0 0"	
 	}
 
 	
@@ -78,12 +78,9 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TargetNameLabel"
-		"font"			"Espacio24"
-		"font_minmode"	"TFFontLarge"
+		"font"			"Champagne20"
 		"xpos"			"34"
-		"xpos_minmode"	"30"
 		"ypos"			"5"
-		"ypos_minmode"	"5"
 		"zpos"			"1"
 		"wide"			"640"
 		"tall"			"24"
@@ -101,14 +98,9 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TargetDataLabel"
-		"font"			"Espacio12"
-		"font_minmode"	"DefaultVerySmall"
+		"font"			"Champagne12"
 		"xpos"			"34"
-		"xpos_minmode"	"30"
 		"ypos"			"22"	[$WIN32]
-		"ypos_minmode"	"12"	[$WIN32]
-		"ypos"			"22"	[$X360]
-		"ypos_hidef"		"25"	[$X360]
 		"zpos"			"1"
 		"wide"			"280"
 		"tall"			"15"
@@ -126,12 +118,10 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"		"SpectatorGUIHealth"
-		"xpos"			"3"
-		"xpos_minmode"	"0"
+		"xpos"			"10"
 		"ypos"			"2"
-		"ypos_minmode"	"0"
-		"wide"			"32"
-		"tall"			"32"
+		"wide"			"50"
+		"tall"			"50"
 		"visible"		"1"
 		"enabled"		"1"	
 		"HealthBonusPosAdj"	"10"

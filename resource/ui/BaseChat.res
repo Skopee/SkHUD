@@ -7,11 +7,13 @@
 		"visible" 		        "1"
 		"enabled" 		        "1"
 		"xpos"			          "1"
-		"ypos"			          "20"		
+		"ypos"			          "0"		
 		"wide"	 		          "250"
 		"tall"	 		          "120"
-		"fgcolor"		"255 0 0 255"
+		"bgcolor_override"		"0 0 0 20"
 		"PaintBackgroundType"	"2"
+		"activeborder_override"	"OutlinedGreyBox"
+		"normalborder_override" "NoBorder"
 	}
 
 	ChatInputLine
