@@ -7,8 +7,8 @@
 		"enabled"		"1"
 		"xpos"			"94"	[$WIN32]
 		"ypos"			"r52"	[$WIN32]
-		"xpos_minmode"	"68"	[$WIN32]
-		"ypos_minmode"	"r40"	[$WIN32]
+		"//"	"68"	[$WIN32]
+		"//"	"r40"	[$WIN32]
 		"wide"			"100"
 		"tall"			"50"
 		"MeterFG"		"227 227 227 255"
@@ -26,7 +26,7 @@
 		"wide"			"76"
 		"tall"			"44"
 		"visible"		"0"
-		"visible_minmode"	"0"
+		"//"	"0"
 		"enabled"		"1"
 		"image"			"../hud/misc_ammo_area_blue"
 		"scaleImage"	"1"	
@@ -65,8 +65,8 @@
 		"font"					"Default"
 		"xpos"					"25"
 		"ypos"					"23"
-		"ypos_minmode"			"0"
-		"xpos_minmode"			"0"
+		"//"			"0"
+		"//"			"0"
 		"zpos"					"2"
 		"wide"					"40"
 		"wide_minmode"			"50"
@@ -85,7 +85,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
 		"xpos"					"30"
-		"ypos_minmode"			"18"
+		"//"			"18"
 		"ypos"					"15"
 		"zpos"					"2"
 		"wide"					"40"

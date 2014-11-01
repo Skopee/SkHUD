@@ -204,7 +204,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"HudLabel"
 		"font"			"Champagne18"
-		"labelText"		"skHUD v 0.71"
+		"labelText"		"skHUD v 0.8"
 		"textAlignment"	"center"
 		"xpos"			"c-50"
 		"ypos"			"10"
@@ -2700,6 +2700,54 @@
 			"image"			"glyph_options"
 			"scaleImage"	"1"
 		}				
+	}	
+	"ScoreboardToggle"
+	{
+		"ControlName"	"CExImageButton"
+		"fieldName"		"ScoreboardToggle"
+		"xpos"			"r115"
+		"ypos"			"45"
+		"zpos"			"1"
+		"wide"			"200"
+		"tall"			"16"
+		"autoResize"	"0"
+		"pinCorner"		"3"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"
+		"labelText"		"Switch Scoreboards"
+		"font"			"Champagne10"
+		"textAlignment"	"west"
+		"textinsetx"	"35"
+		"use_proportional_insets" "1"
+		"dulltext"		"0"
+		"brighttext"	"0"
+		"default"		"1"
+		"paintbackground""0"
+		"Command"		"engine incrementvar cl_hud_// 0 1 1"
+		
+		"defaultFgColor_override" "MenuButton"
+		"armedFgColor_override" "MenuButtonHover"
+		"depressedFgColor_override" "MenuButtonHover"
+		
+		"sound_depressed"	"UI/buttonclick.wav"
+		"sound_released"	"UI/buttonclickrelease.wav"
+		
+		"image_drawcolor"	"235 226 202 255"
+		"SubImage"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"SubImage"
+			"xpos"			"16"
+			"ypos"			"6"
+			"zpos"			"1"
+			"wide"			"0"
+			"tall"			"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"scaleImage"	"1"
+			"image"			"glyph_options"
+		}			
 	}		
 	
 	"SettingsButton"
