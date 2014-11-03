@@ -5514,7 +5514,8 @@ Scheme
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"0"
 			
-			"image"					"loadout_rect_mouseover"
+			"image"                    "backpack_rect_mouseover_color"
+            "color"                    "60 60 60 255"
 			"src_corner_height"		"24"				// pixels inside the image
 			"src_corner_width"		"24"
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
@@ -5525,7 +5526,8 @@ Scheme
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"0"
 			
-			"image"					"button_holder_central"
+			"image"                    "backpack_rect_mouseover_color"
+            "color"                    "60 60 60 255"
 			"src_corner_height"		"32"				// pixels inside the image
 			"src_corner_width"		"32"
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
