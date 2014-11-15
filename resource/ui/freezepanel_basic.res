@@ -160,7 +160,7 @@
 	{
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"itempanel"
-		"xpos"			"r270"
+		"xpos"			"r240"
 		"ypos"			"330"
 		"zpos"			"1"
 		"wide"			"240"
@@ -238,7 +238,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"FreezePanelBase"
-		"xpos"			"r270"
+		"xpos"			"r240"
 		"ypos"			"295"		
 		"wide"			"240"		
 		"tall"			"200"		
