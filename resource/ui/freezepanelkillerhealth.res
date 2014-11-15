@@ -4,9 +4,9 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImage"
-		"xpos"			"7"
-		"ypos"			"7"
-		"zpos"			"4"
+		"xpos"			"99999999999"
+		"ypos"			"99999999999"
+		"zpos"			"99999999999"
 		"wide"			"0"
 		"tall"			"0"
 		"visible"		"0"
@@ -17,8 +17,8 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImageBG"
-		"xpos"			"5"
-		"ypos"			"5"
+		"xpos"			"99999999999"
+		"ypos"			"99999999999"
 		"zpos"			"3"
 		"wide"			"0"
 		"tall"			"0"
@@ -31,13 +31,13 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthImageBG"
-		"xpos"			"1"
-		"ypos"			"2"
-		"zpos"			"3"
-		"wide"			"28"
-		"tall"			"28"
-		"visible"		"1"
-		"enabled"		"1"
+		"xpos"			"99999999999"
+		"ypos"			"99999999999"
+		"zpos"			"0"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"../hud/health_equip_bg"
 		"scaleImage"	"1"	
 	}	
@@ -69,6 +69,6 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"textAlignment"	"center"	
-		"fgcolor_override"		"227 227 227 255"
+		"fgcolor_override"		"255 255 255 255"
 	}								
 }

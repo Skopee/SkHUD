@@ -78,7 +78,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserve"
-		"font"			"Chelsea42"
+		"font"			"Chelsea36"
 		"fgcolor"		"AmmoInReserve"
 		"xpos"			"135"
 		"ypos"			"60"
@@ -94,7 +94,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserveShadow"
-		"font"			"Chelsea42"
+		"font"			"Chelsea36"
 		"fgcolor"		"AmmoInReserveShadow"
 		"xpos"			"136"
 		"ypos"			"61"

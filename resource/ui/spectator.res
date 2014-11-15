@@ -62,7 +62,7 @@
 		"xpos"			"c-300"	[$WIN32]
 		"//xpos_minmode"	"c-300"
 		"xpos"			"c-200"	[$X360]
-		"ypos"			"50"	[$WIN32]
+		"ypos"			"35"	[$WIN32]
 		"//ypos_minmode"	"3"		[$WIN32]
 		"ypos"			"67"	[$X360]
 		"ypos_hidef"	"79"
@@ -78,7 +78,7 @@
 		"enabled"		"1"
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"		"center"
-		"font"			"Ocho Siete24"
+		"font"			"Champagne16"
 		"fgcolor_override" "255 255 255 255"
 	}
 	"BuyBackLabel"

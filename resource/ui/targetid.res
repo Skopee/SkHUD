@@ -61,16 +61,16 @@
 	{
 		"ControlName" "ImagePanel"
 		"fieldName" "TargetBG"
-		"xpos" 		"0"
+		"xpos" 		"15"
 		"ypos" 		"0"
 		"zpos" 		"-2"
-		"wide" 		"0"
-		"tall" 		"0"
+		"wide" 		"640"
+		"tall" 		"50"
 		"autoResize" "0"
 		"pinCorner" "0"
-		"visible" 	"0"
-		"enabled" 	"0"
-		"fillcolor" "0 0 0 0"	
+		"visible" 	"1"
+		"enabled" 	"1"
+		"fillcolor" "46 46 46 150"	
 	}
 
 	

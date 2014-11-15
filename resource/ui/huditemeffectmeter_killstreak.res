@@ -54,8 +54,8 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Chelsea12"
-		"fgcolor_override" 		"KillstreakCounterLabel"
+		"font"					"Champagne12"
+		"fgcolor_override" 		"255 255 255 255"
 	}
 
 	"ItemEffectMeter"
