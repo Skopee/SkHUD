@@ -72,6 +72,21 @@
 		"enabled" 	"1"
 		"fillcolor" "46 46 46 150"	
 	}
+	"TargetBG2"
+	{
+		"ControlName" "ImagePanel"
+		"fieldName" "TargetBG2"
+		"xpos" 		"15"
+		"ypos" 		"0"
+		"zpos" 		"-2"
+		"wide" 		"640"
+		"tall" 		"3"
+		"autoResize" "0"
+		"pinCorner" "0"
+		"visible" 	"1"
+		"enabled" 	"1"
+		"fillcolor" "255 255 255 255"	
+	}
 
 	
 	"TargetNameLabel"
