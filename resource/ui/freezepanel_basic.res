@@ -156,7 +156,7 @@
 	}
 
 	
-		"itempanel"
+	"itempanel"
 	{
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"itempanel"
