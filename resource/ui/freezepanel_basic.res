@@ -160,8 +160,8 @@
 	{
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"itempanel"
-		"xpos"			"r249"
-		"ypos"			"c15"
+		"xpos"			"r270"
+		"ypos"			"330"
 		"zpos"			"1"
 		"wide"			"240"
 		"tall"			"900"
@@ -200,21 +200,21 @@
 			"enabled" "1"
 			"fillcolor" "46 46 46 150"
 			}
-			"TitleBackground"
-			{
+		"TitleBackground"
+		{
 			"ControlName" "ImagePanel"
 			"fieldName" "TitleBackground"
-			"xpos" "9999"
-			"ypos" "4"
-			"zpos" "-1"
-			"wide" "232"
-			"tall" "14"
+			"xpos" "0"
+			"ypos" "0"
+			"zpos" "100"
+			"wide" "250"
+			"tall" "3"
 			"autoResize" "0"
 			"pinCorner" "0"
 			"visible" "1"
 			"enabled" "1"
-			"fillcolor" "46 46 46 150"
-			}
+			"fillcolor" "255 255 255 255"
+		}
 		
 		"itemmodelpanel"
 		{
@@ -238,8 +238,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"FreezePanelBase"
-		"xpos"			"r249"
-		"ypos"			"c-20"		
+		"xpos"			"r270"
+		"ypos"			"295"		
 		"wide"			"240"		
 		"tall"			"200"		
 		"visible"		"1"
@@ -272,14 +272,14 @@
 			"ControlName"		"CTFImagePanel"
 			"fieldName"		"FreezePanelBG2"
 			"xpos"			"0"
-			"ypos"			"28"
+			"ypos"			"32"
 			"zpos"			"0"
 			"wide"			"240"
 			"tall"			"3"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 			"image"				""
-			"fillcolor"			"127 127 127 150"
+			"fillcolor"			"255 255 255 255"
 			"scaleImage"		"0"
 			
 			"src_corner_height"		"23"				// pixels inside the image

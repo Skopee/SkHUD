@@ -311,7 +311,7 @@
 	{
 		"ControlName"	"CItemModelPanel"
 		"fieldName"		"itempanel"
-		"xpos"			"r300"
+		"xpos"			"r250"
 		"ypos"			"300"
 		"zpos"			"10"
 		"wide"			"270"
