@@ -1,6 +1,5 @@
 "Resource/UI/HudPlayerHealth.res"
 {	
-	// player health data
 	"HudPlayerHealth"
 	{
 		"ControlName"	"EditablePanel"

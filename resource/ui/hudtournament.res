@@ -258,7 +258,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"255 255 255 25"
+		"fillcolor"		"255 255 255 0"
 		
 		
 		
@@ -284,7 +284,7 @@
 		"wrap"			"0"
 		"labelText"		"%tournamentstatelabel%"
 		"textAlignment"		"center"
-		"fgcolor_override"			"46 46 46 255"
+		"fgcolor_override"			"255 255 255 255"
 		
 		if_mvm
 		{
@@ -459,7 +459,7 @@
 		"wrap"			"0"
 		"labelText"		"%winconditions%"
 		"textAlignment"		"north-west"
-		"fgcolor_override"			"46 46 46 255"
+		"fgcolor_override"			"255 255 255 255"
 		
 		if_mvm
 		{
@@ -499,8 +499,8 @@
 		"ControlName"		"CExLabel"
 		"fieldName"		"TournamentInstructionsLabel"
 		"font"			"Champagne8"
-		"xpos"			"0"
-		"ypos"			"54"
+		"xpos"			"70"
+		"ypos"			"42"
 		"wide"			"250"
 		"tall"			"10"
 		"zpos"			"1"
@@ -511,7 +511,7 @@
 		"wrap"			"0"
 		"labelText"		"%readylabel%"
 		"textAlignment"		"center"
-		"fgcolor_override"			"46 46 46 255"
+		"fgcolor_override"			"255 255 255 255"
 		
 		if_mvm
 		{

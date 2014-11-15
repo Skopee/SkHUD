@@ -78,7 +78,7 @@
 		"enabled"		"1"
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"		"center"
-		"font"			"Champagne16"
+		"font"			"Champagne14"
 		"fgcolor_override" "255 255 255 255"
 	}
 	"BuyBackLabel"
