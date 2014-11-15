@@ -115,8 +115,8 @@
 	{
 		"controlName"	"CExLabel"
 		"fieldName"	 	"BasicDot"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"zpos"			"2"
 
 		"xpos"			"c-103"
@@ -157,8 +157,8 @@
 	{
 		"controlName"	"CExLabel"
 		"fieldName"	 	"ThinCircle"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"zpos"			"2"
 
 		"xpos"			"c-100"
@@ -171,7 +171,7 @@
 		"labelText"		"9"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"255 255 255 255"
+		"fgcolor"		"255 255 255 30"
 	}
 	
 	WingsPlus
@@ -584,7 +584,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"300"
+		"ypos"		"290"
 		"wide"	 	"252"
 		"tall"	 	"35"
 		"tall_minmode"	 	"28"
@@ -607,7 +607,6 @@
 		"ypos"		"300"
 		"wide"	 	"252"
 		"tall"	 	"35"
-		"tall_minmode"	 	"28"
 		"priority"	"40"
 		"priority_lodef" "35"
 		
@@ -621,8 +620,8 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"320"
-		"wide"	 	"252"
+		"ypos"		"328"
+		"wide"	 	"50"
 		"tall"	 	"35"
 		"tall_minmode"	 	"28"
 		"priority"	"35"
@@ -1738,5 +1737,15 @@
 		"wide"			"470"
 		"tall"			"200"
 		"PaintBackgroundType"	"0"
+	}
+	"HudMiniGame"
+	{
+		"fieldName" "HudMiniGame"
+		"visible" "1"
+		"enabled" "1"
+		"xpos" "0"
+		"ypos" "0"
+		"wide" "f0"
+		"tall" "480"
 	}
 }
