@@ -26,7 +26,7 @@
 			"font"			"Chelsea24"
 			"fgcolor"		"Clock"
 			"xpos"			"0"
-			"ypos"			"0"
+			"ypos"			"-5"
 			"zpos"			"3"
 			"wide"			"110"
 			"tall"			"31"
