@@ -41,7 +41,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"KillStreakIcon"
-		"xpos"			"0"
+		"xpos"			"10"
 		"ypos"			"25"
 		"zpos"			"2"
 		"wide"			"20"
@@ -55,7 +55,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ItemEffectMeterBG"
-		"xpos"			"0"
+		"xpos"			"10"
 		"ypos"			"23"
 		"zpos"			"0"
 		"wide"			"40"
@@ -70,7 +70,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ItemEffectMeterBGW"
-		"xpos"			"0"
+		"xpos"			"10"
 		"ypos"			"20"
 		"zpos"			"0"
 		"wide"			"40"
@@ -106,7 +106,7 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"10"
+		"xpos"					"20"
 		"ypos"					"25"
 		"zpos"					"2"
 		"wide"					"40"
