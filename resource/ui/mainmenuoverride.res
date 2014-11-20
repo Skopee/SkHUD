@@ -147,7 +147,7 @@
 		"tall"			"60"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"255 255 255 75"
+		"fillcolor"		"46 46 46 75"
 		"tileImage"		"1"
 		
 	}	
@@ -177,7 +177,7 @@
 			"wide"	"300"
 			"tall"	"25"
 			"autoResize"	"0"
-			"fgcolor_override"	"47 47 47 255"
+			"fgcolor_override"	"255 255 255 255"
 			"pinCorner"	"0"
 			"visible"	"1"
 			"enabled"	"1"
@@ -214,7 +214,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override"	"46 46 46 255"
+		"fgcolor_override"	"255 255 255 255"
 	}
 	"HudlabelBG"
 	{
@@ -2352,8 +2352,8 @@
 		"zpos"			"-50"
 		"wide"			"300"
 		"tall"			"f0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"fillcolor"		"255 255 255 75"
 		"tileImage"		"1"
 		

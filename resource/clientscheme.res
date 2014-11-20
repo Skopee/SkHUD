@@ -44,7 +44,7 @@ Scheme
 		"DemomanStickyChargeBackground"					"255 255 255 25"
 		"DemomanPipeLabel"								"255 255 255 200"
 		"DemomanPipeLabelShadow"						"0 0 0 200"
-		"MenuButton"									"46 46 46 255"	
+		"MenuButton"									"225 225 225 255"	
 		"MenuButtonHover"								"127 255 212 255"
 		"MedicCharge"									"255 255 255 255"
 		"BG"											"46 46 46 255"
