@@ -204,7 +204,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"HudLabel"
 		"font"			"Champagne18"
-		"labelText"		"skHUD v 0.86"
+		"labelText"		"skHUD v 0.85"
 		"textAlignment"	"center"
 		"xpos"			"c-50"
 		"ypos"			"10"
@@ -2186,11 +2186,11 @@
 			"border_armed"		""
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 46 46 255"
-			"armedFgColor_override" "46 43 42 255"
-			"depressedFgColor_override" "46 46 46 255"
+			"defaultFgColor_override" "255 255 255 255"
+			"armedFgColor_override" "255 255 255 255"
+			"depressedFgColor_override" "255 255 255 255"
 			
-			"image_drawcolor"	"46 46 46 255"
+			"image_drawcolor"	"255 255 255 255"
 			"image_armedcolor"	"127 255 212 255"
 			
 			"SubImage"
@@ -2220,11 +2220,6 @@
 		"tall"			"26"
 		"visible"		"1"
 
-		"navLeft"		"CallVoteButton"
-		"navDown"		"QuickplayChangeButton"
-		"navRight"		"RequestCoachButton"
-		"navToRelay"	"SubButton"
-
 		"SubButton"
 		{
 			"ControlName"	"CExImageButton"
@@ -2252,11 +2247,11 @@
 			"border_armed"		""
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "46 43 42 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "255 255 255 255"
+			"armedFgColor_override" "255 255 255 255"
+			"depressedFgColor_override" "255 255 255 255"
 			
-			"image_drawcolor"	"46 46 46 255"
+			"image_drawcolor"	"255 255 255 255"
 			"image_armedcolor"	"127 255 212 255"
 			
 			"SubImage"
@@ -2319,11 +2314,11 @@
 			"border_armed"		""
 			"paintbackground"	"0"
 			
-			"defaultFgColor_override" "46 43 42 255"
-			"armedFgColor_override" "46 43 42 255"
-			"depressedFgColor_override" "46 43 42 255"
+			"defaultFgColor_override" "255 255 255 255"
+			"armedFgColor_override" "255 255 255 255"
+			"depressedFgColor_override" "255 255 255 255"
 			
-			"image_drawcolor"	"46 46 46 255"
+			"image_drawcolor"	"255 255 255 255"
 			"image_armedcolor"	"127 255 212 255"
 			
 			"SubImage"
