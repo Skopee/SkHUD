@@ -244,7 +244,6 @@
 			"team2_player_delta_x"			"52"
 		}		
 	}
-
 	"HudTournamentBG"
 	{
 		"ControlName"		"ImagePanel"
@@ -258,7 +257,7 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"255 255 255 0"
+		"fillcolor" 	"46 46 46 150"
 		
 		
 		
@@ -266,6 +265,21 @@
 		{
 			"visible"		"0"
 		}	
+	}
+	"HudTournamentBGW"
+	{
+		"ControlName"		"ImagePanel"
+		"fieldName"		"HudTournamentBG"
+		"xpos"			"0"
+		"ypos"			"65"
+		"zpos"			"-4"
+		"wide"			"250"
+		"tall"			"3"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			""	
+		"fillcolor" 	"255 255 255 255"
+		"scaleImage"		"1"	
 	}
 	"TournamentLabel"
 	{	
@@ -441,6 +455,7 @@
 			"visible"		"0"
 		}
 	}
+	
 	"TournamentConditionLabel"
 	{	
 		"ControlName"		"CExLabel"

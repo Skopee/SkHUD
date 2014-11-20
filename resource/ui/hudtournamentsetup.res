@@ -6,21 +6,29 @@
 		"fieldName"		"HudTournamentSetupBG"
 		"xpos"			"0"
 		"ypos"			"0"
-		"zpos"			"-1"
+		"zpos"			"-4"
 		"wide"			"180"
 		"tall"			"65"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"0 0 0 0"
-
-
-		"src_corner_height"	"20"				// pixels inside the image
-		"src_corner_width"	"20"
-		
-		"draw_corner_width"	"0"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"0"	
+		"fillcolor"		"46 46 46 150"
+	}
+	"HudTournamentSetupBGW"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"HudTournamentSetupBG"
+		"xpos"			"0"
+		"ypos"			"62"
+		"zpos"			"-4"
+		"wide"			"180"
+		"tall"			"3"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"255 255 255 255"
 	}
 
 	"TournamentSetupLabel"
