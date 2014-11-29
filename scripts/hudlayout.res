@@ -115,8 +115,8 @@
 	{
 		"controlName"	"CExLabel"
 		"fieldName"	 	"BasicDot"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"zpos"			"2"
 
 		"xpos"			"c-103"
@@ -157,8 +157,8 @@
 	{
 		"controlName"	"CExLabel"
 		"fieldName"	 	"ThinCircle"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"zpos"			"2"
 
 		"xpos"			"c-100"
@@ -604,7 +604,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"300"
+		"ypos"		"290"
 		"wide"	 	"252"
 		"tall"	 	"35"
 		"priority"	"40"
@@ -620,7 +620,7 @@
 		"visible" 	"0"
 		"enabled" 	"1"
 		"xpos"		"c-126"
-		"ypos"		"328"
+		"ypos"		"320"
 		"wide"	 	"50"
 		"tall"	 	"35"
 		"tall_minmode"	 	"28"
