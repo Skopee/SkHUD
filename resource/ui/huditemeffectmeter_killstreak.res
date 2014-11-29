@@ -91,7 +91,7 @@
 		"ypos"					"23"
 		"zpos"					"2"
 		"wide"					"40"
-		"wide_minmode"			"50"
+		"wide_//"			"50"
 		"tall"					"6"				
 		"autoResize"			"0"
 		"pinCorner"				"0"
@@ -120,7 +120,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"Chelsea24"
-		"font_minmode"			"HudFontSmall"
+		"font_//"			"HudFontSmall"
 		"fgcolor_override" 		"KillstreakCounter"
 	}
 }
