@@ -115,7 +115,7 @@
 		"fieldName"		"TargetDataLabel"
 		"font"			"Champagne10"
 		"xpos"			"40"
-		"ypos"			"20"	[$WIN32]
+		"ypos"			"19"	[$WIN32]
 		"zpos"			"1"
 		"wide"			"260"
 		"tall"			"15"
