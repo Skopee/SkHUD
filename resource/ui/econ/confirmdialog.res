@@ -1,4 +1,4 @@
-"Resource/UI/ConfirmDialogAbandonSafe.res"
+"Resource/UI/ConfirmDialog.res"
 {
 	"ConfirmDialog"
 	{
@@ -35,7 +35,6 @@
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
-		"fgcolor_override" "200 80 60 255"
 	}
 	
 	"ExplanationLabel"
@@ -55,7 +54,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"centerwrap"	"1"
-		"fgcolor_override" "TanLight"
+		"fgcolor_override" "200 80 60 255"
 	}
 		
 	"CancelButton"
