@@ -34,7 +34,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Champagne8"
+		"font"					"Titillium8"
 		"fgcolor_override" 		"255 255 255 255"
 	}
 	"KillStreakIcon"
@@ -106,8 +106,8 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"20"
-		"ypos"					"25"
+		"xpos"					"18"
+		"ypos"					"23"
 		"zpos"					"2"
 		"wide"					"40"
 		"tall"					"20"	
@@ -119,7 +119,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Chelsea24"
+		"font"					"Titillium32"
 		"font_//"			"HudFontSmall"
 		"fgcolor_override" 		"KillstreakCounter"
 	}

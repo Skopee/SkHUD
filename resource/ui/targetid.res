@@ -93,7 +93,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TargetNameLabel"
-		"font"			"Champagne14"
+		"font"			"Titillium14"
 		"xpos"			"34"
 		"ypos"			"3"
 		"zpos"			"1"
@@ -113,7 +113,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TargetDataLabel"
-		"font"			"Champagne10"
+		"font"			"Titillium10"
 		"xpos"			"40"
 		"ypos"			"19"	[$WIN32]
 		"zpos"			"1"

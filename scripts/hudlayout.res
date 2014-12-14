@@ -360,7 +360,7 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	"c0"	[$WIN32]
-		"ypos"	"r175"	[$WIN32]
+		"ypos"	"r150"	[$WIN32]
 		"wide"	"500"
 		"tall"	"250"
 	}
@@ -412,9 +412,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-59"	[$WIN32]
-		"ypos"			"r130"	[$WIN32]
-		"wide"			"300"
-		"tall"			"200"
+		"ypos"			"r150"	[$WIN32]
+		"wide"			"500"
+		"tall"			"222"
 	}
 	
 	HudDemomanCharge
@@ -423,10 +423,10 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"c-59"	[$WIN32]
-		"ypos"			"r95"	[$WIN32]
+		"ypos"			"r100"	[$WIN32]
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"118"
-		"tall"			"10"
+		"tall"			"50"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}	
@@ -834,17 +834,16 @@
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 	
 		
-		"TextFont"		"Chelsea12"
+		"TextFont"		"Titillium14"
 		
 		"TeamBlue"		"HUDBlueTeamSolid"
 		"TeamRed"		"HUDRedTeamSolid"
 		"IconColor"		"HudWhite"
 		"LocalPlayerColor"	"HUDBlack"
 
-		"BaseBackgroundColor"	"0 0 0 25"		[$WIN32]
+		"BaseBackgroundColor"	"46 46 46 100"		[$WIN32]
 		"LocalBackgroundColor"	"255 255 255 100"	[$WIN32]
-		"BaseBackgroundColor"	"32 32 32 255"		[$X360]
-		"LocalBackgroundColor"	"0 0 0 255"		[$X360]
+
 	}
 
 	HudVehicle
@@ -1370,10 +1369,10 @@
 		"fieldName"		"HudDemomanPipes"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-59"	[$WIN32]
-		"ypos"			"r150"	[$WIN32]
+		"xpos"			"c-59"	
+		"ypos"			"r150"
 		"wide"			"118"
-		"tall"			"200"
+		"tall"			"500"
 	}	
 
 	HudTeamGoal

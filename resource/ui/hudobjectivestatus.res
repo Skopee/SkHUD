@@ -23,7 +23,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
-			"font"			"Chelsea24"
+			"font"			"Titillium24"
 			"fgcolor"		"Clock"
 			"xpos"			"0"
 			"ypos"			"-5"

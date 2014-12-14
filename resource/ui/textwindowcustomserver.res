@@ -33,7 +33,7 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"Champagne18"
+		"font"			"Titillium22"
 		"fgcolor"		"227 227 227 255"
 	}	
 
@@ -49,7 +49,7 @@
 	{
 		"ControlName"	"CExRichText"
 		"fieldName"		"TFTextMessage"
-		"font"			"Champagne12"
+		"font"			"Titillium12"
 		"xpos"			"c-184"
 		"ypos"			"125"
 		"zpos"			"1"
@@ -144,7 +144,7 @@
 		"brighttext"	"0"
 		"command"		"okay"
 		"default"		"1"
-		"font"			"Champagne12"
+		"font"			"Titillium14"
 		"paintbackground"	"0"
 		
 		"fgcolor"					"255 255 255 255"

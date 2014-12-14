@@ -64,7 +64,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"Champagne14"
+		"font"			"Titillium14"
 		"fgcolor_override"		"ClockText"
 	}			
 	"WaitingForPlayersBG"
@@ -98,7 +98,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"Champagne14"
+		"font"			"Titillium14"
 		"fgcolor_override"		"ClockText"
 	}			
 	"OvertimeBG"
@@ -165,7 +165,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"Champagne14"
+		"font"			"Titillium14"
 		"fgcolor_override"		"ClockText"
 	}	
 	"SetupBG"
@@ -187,7 +187,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"ServerTimeLimitLabel"
 		"xpos"			"16"
-		"ypos"			"25"
+		"ypos"			"20"
 		"zpos"			"5"
 		"wide"			"78"
 		"tall"			"19"
@@ -198,7 +198,7 @@
 		"dulltext"		"0"
 		"brighttext"		"0"
 		"wrap"			"0"
-		"font"			"Champagne14"
+		"font"			"Titillium14"
 		"fgcolor_override"		"255 255 255 255"
 	}	
 	"ServerTimeLimitLabelBG"

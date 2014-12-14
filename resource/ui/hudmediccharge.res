@@ -22,7 +22,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"ChargeLabel"
 		"xpos"			"135"
-		"ypos"			"7"
+		"ypos"			"52"
 		"zpos"			"2"
 		"wide"			"115"
 		"tall"			"50"
@@ -35,7 +35,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"Chelsea64"
+		"font"			"Titillium74"
 		"fgcolor_override" "255 255 255 255"
 	}
 	"ChargeLabelShadow"
@@ -43,7 +43,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"ChargeLabelShadow"
 		"xpos"			"136"
-		"ypos"			"8"
+		"ypos"			"53"
 		"zpos"			"1"
 		"wide"			"115"
 		"tall"			"50"
@@ -56,7 +56,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"Chelsea64"
+		"font"			"Titillium74"
 		"fgcolor_override" "0 0 0 255"
 	}
 	
@@ -79,7 +79,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"Chelsea64"
+		"font"			"Titillium74"
 		"fgcolor_override"	"255 255 255 255"
 	}
 	"IndividualChargesLabelShadow"
@@ -100,7 +100,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"Chelsea64"
+		"font"			"Titillium74"
 		"fgcolor_override"	"0 0 0 255"
 	}
 	
@@ -110,7 +110,7 @@
 		"fieldName"		"ChargeMeter"
 		"font"			"Default"
 		"xpos"			"0"
-		"ypos"			"45"
+		"ypos"			"67"
 		"zpos"			"2"
 		"wide"			"118"
 		"tall"			"6"				
@@ -122,6 +122,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor_override"	"0 255 255 255"
+		"bgcolor_override"	"DemomanStickyChargeBackground"
 	}		
 
 	"ChargeMeter1"

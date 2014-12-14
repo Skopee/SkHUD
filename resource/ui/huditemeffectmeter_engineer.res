@@ -51,8 +51,8 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Champagne6"
-		"fgcolor_override"		"227 227 227 255"
+		"font"					"Titillium6"
+		"fgcolor_override"		"255 255 255 255"
 	}
 
 	"ItemEffectMeter"
@@ -79,7 +79,7 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
 		"xpos"					"0"
-		"ypos"					"0"
+		"ypos"					"10"
 		"zpos"					"2"
 		"wide"					"40"
 		"tall"					"100"	
@@ -91,7 +91,7 @@
 		"textAlignment"			"north"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Chelsea34"
-		"fgcolor_override"		"227 227 227 255"
+		"font"					"Titillium34"
+		"fgcolor_override"		"255 255 255 255"
 	}
 }

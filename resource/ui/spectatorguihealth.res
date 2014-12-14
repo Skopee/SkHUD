@@ -74,7 +74,7 @@
 		"ControlName"	"Label"
 		"fieldName"		"PlayerStatusHealthValue"
 		"labeltext" 	"%Health%"
-		"font"			"Chelsea14"
+		"font"			"Titillium14"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"5"

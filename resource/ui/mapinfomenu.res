@@ -22,7 +22,7 @@
 		"xpos"			"c-184"
 		"ypos"			"95"
 		"zpos"			"1"
-		"wide"			"225"
+		"wide"			"195"
 		"tall"			"24"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -30,8 +30,8 @@
 		"enabled"		"1"
 		"labelText"		"%mapname%"
 		"textAlignment"	"west"
-		"font"			"Champagne18"
-		"fgcolor"		"227 227 227 255"
+		"font"			"Titillium22"
+		"fgcolor"		"sk_white"
 	}
 	
 	"MapInfoType"
@@ -41,7 +41,7 @@
 		"xpos"			"c-184"
 		"ypos"			"125"
 		"zpos"			"1"
-		"wide"			"225"
+		"wide"			"195"
 		"tall"			"24"
 		"autoResize"	"0"
 		"pinCorner"		"0"
@@ -49,15 +49,15 @@
 		"enabled"		"1"
 		"labelText"		"%gamemode%"
 		"textAlignment"	"west"
-		"font"			"Champagne12"
-		"fgcolor"		"227 227 227 255"
+		"font"			"Titillium14"
+		"fgcolor"		"sk_white"
 	}	
 	
 	"MapInfoText"
 	{
 		"ControlName"	"CExRichText"
 		"fieldName"		"MapInfoText"
-		"font"			"Champagne12"
+		"font"			"Titillium12"
 		"xpos"			"c-184"
 		"ypos"			"160"
 		"zpos"			"3"
@@ -69,7 +69,7 @@
 		"enabled"		"1"
 		"paintborder"	"0"
 		"textAlignment"	"northwest"
-		"fgcolor"		"227 227 227 255"
+		"fgcolor"		"sk_white"
 	}
 	
 	
@@ -128,7 +128,7 @@
 		"brighttext"	"0"
 		"command"		"continue"
 		"default"		"1"
-		"font"			"Champagne12"
+		"font"			"Titillium14"
 		"paintbackground"	"0"
 		
 		"fgcolor"					"255 255 255 255"

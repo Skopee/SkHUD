@@ -49,8 +49,8 @@
 		"textAlignment"	"west"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"Champagne18"
-		"fgcolor"		"227 227 227 255"
+		"font"			"Titillium22"
+		"fgcolor"		"sk_white"
 	}	
 
 	"TextMessage"
@@ -65,7 +65,7 @@
 	{
 		"ControlName"	"CExRichText"
 		"fieldName"		"TFTextMessage"
-		"font"			"Champagne12"
+		"font"			"Titillium12"
 		"xpos"			"c-184"
 		"ypos"			"125"
 		"zpos"			"1"
@@ -77,7 +77,7 @@
 		"enabled"		"1"
 		"paintborder"	"0"
 		"textAlignment"	"northwest"
-		"fgcolor"		"227 227 227 255"
+		"fgcolor"		"sk_white"
 	}
 
 	"HTMLMessage"
@@ -145,7 +145,7 @@
 		"brighttext"	"0"
 		"command"		"okay"
 		"default"		"1"
-		"font"			"Champagne12"
+		"font"			"Titillium12"
 		"paintbackground"	"0"
 		
 		"fgcolor"					"255 255 255 255"
@@ -175,7 +175,7 @@
 		"wrap"			"0"
 		"command"		"okay"
 		"default"		"1"
-		"font"			"Champagne12"
+		"font"			"Titillium14"
 		"paintbackground"	"0"
 		
 		"fgcolor"					"255 255 255 255"
@@ -218,9 +218,9 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"ShadedBar"
-		"xpos"			"0"
-		"ypos"			"r50"
-		"zpos"			"5"
+		"xpos"			"99999"
+		"ypos"			"99999"
+		"zpos"			"-99999"
 		"wide"			"0"
 		"tall"			"0"
 		"autoResize"	"0"
@@ -228,7 +228,7 @@
 		"visible"		"0"
 		"enabled"		"0"
 		"tabPosition"	"0"	
-		"image"			"loadout_bottom_gradient"
+		"image"			""
 		"tileImage"		"1"
 		"PaintBackgroundType"	"0"
 	}						

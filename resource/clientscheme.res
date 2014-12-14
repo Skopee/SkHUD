@@ -4274,6 +4274,326 @@ Scheme
 				"antialias"	"1"
 			}
 		}
+		"Titillium12"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"12"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium14"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"14"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium16"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"16"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium18"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"18"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium20"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"20"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium22"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"22"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium24"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"24"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium26"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"26"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium28"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"28"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium30"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"30"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium32"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"32"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium34"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"34"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium36"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"36"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium38"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"38"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium40"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"40"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium42"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"42"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium44"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"44"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium46"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"46"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium48"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"48"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium50"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"50"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium52"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"52"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium54"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"54"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium56"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"56"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium58"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"58"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium60"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"60"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium62"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"62"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium64"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"64"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium66"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"66"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium68"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"68"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium70"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"70"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium72"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"72"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
+		"Titillium74"
+		{
+			"1"
+			{
+				"name"		"Titillium"
+				"tall"		"74"
+				"additive"		"0"
+				"antialias"	"1"
+			}
+		}
 		"Entypo12"
 		{
 			"1"
@@ -7029,6 +7349,11 @@ Scheme
 		{
 			"font" "resource/fonts/Garm3nFont.ttf"
 			"name" "Garm3nFont"
+		}
+		"23" 
+		{
+			"font" "resource/fonts/Titillium-Regular.otf"
+			"name" "Titillium"
 		}
 		
 	}
