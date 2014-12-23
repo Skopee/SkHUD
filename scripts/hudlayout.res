@@ -325,8 +325,8 @@
 	{
 		"controlName"	"CExLabel"
 		"fieldName"	 	"KonrWings"
-		"visible"		"0"
-		"enabled"		"0"
+		"visible"		"1"
+		"enabled"		"1"
 		"zpos"			"2"
 
 		"xpos"			"c-108"
@@ -340,9 +340,11 @@
 		"labelText"		"i"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"255 255 255 255"
+		"fgcolor"		"127 255 212 255"
 	}
 	//end xhairs
+	
+	
 	HudPlayerStatus
 	{
 		"fieldName" "HudPlayerStatus"
@@ -540,10 +542,8 @@
 	CHealthAccountPanel
 	{
 		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"170"
-		"xpos_minmode"			"61"
-		"ypos"					"r152"
-		"ypos_minmode"			"r134"
+		"xpos"					"220"
+		"ypos"					"r50"
 		"wide"					"116"
 		"tall"  				"180"
 		"visible" 				"1"
@@ -1227,8 +1227,8 @@
 	StatPanel
 	{
 		"fieldName"				"StatPanel"
-		"visible"				"1"
-		"enabled"				"1"
+		"visible"				"0"
+		"enabled"				"0"
 		"xpos"					"c-133"
 		"xpos_lodef"			"c-190"
 		"ypos"				"270"

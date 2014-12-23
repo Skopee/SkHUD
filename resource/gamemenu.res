@@ -3,14 +3,14 @@
 
 	"QuickplayButton"
 	{
-		"label" "Quickplay" 
+		"label" "Play" 
 		"command" "quickplay"
 		"subimage" ""
 		"OnlyAtMenu" "1"
 	}
 	"QuickplayChangeButton"
 	{
-		"label" "Quickplay" 
+		"label" "Play" 
 		"command" "quickplay"
 		"subimage" ""
 		"OnlyInGame" "1"

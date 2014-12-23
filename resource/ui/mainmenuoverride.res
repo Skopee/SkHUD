@@ -172,7 +172,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"HUDLabel"
 		"font"			"Titillium16"
-		"labelText"		"Welcome back to skHUD v.86"
+		"labelText"		"Welcome back to skHUD v.87"
 		"textAlignment"	"west"
 		"xpos"			"c-392"
 		"ypos"			"40"
@@ -830,7 +830,7 @@
 			"enabled"		"1"
 			"image"			"glyph_achievements"
 			"scaleImage"	"1"
-			"drawcolor" "210 125 33 255"
+			"drawcolor" "127 255 212 255"
 		}				
 		
 		"Notifications_CountLabel"
@@ -866,21 +866,23 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"labelText"		""
-			"font"			"HudFontSmallestBold"
+			"labelText"		"M"
+			"font"			"Entypo36"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
 			"default"		"1"
 
 			"Command"		"noti_show"
-
+						"defaultFgColor_override" "255 255 255 255"
+			"armedFgColor_override" "127 255 212 255"
+			"depressedFgColor_override" "255 255 255 255"
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			"paintbackground" "0"
-			"image_drawcolor"	"127 255 212 255"
-			"image_armedcolor"	"255 255 255 255 255"
+			"image_drawcolor"	"255 255 255 255"
+			"image_armedcolor"	"127 255 212 255"
 			
 			"SubImage"
 			{
@@ -889,8 +891,8 @@
 				"xpos"			"0"
 				"ypos"			"0"
 				"zpos"			"1"
-				"wide"			"32"
-				"tall"			"32"
+				"wide"			"0"
+				"tall"			"0"
 				"visible"		"1"
 				"enabled"		"1"
 				"image"			"button_Alert"
@@ -910,8 +912,25 @@
 		"tall"			"80"
 		"visible"		"0"
 		"PaintBackgroundType"	"2"
+		"border_armed"		""
+		"border_default"		""
 		"paintbackground"	"0"
-		"border"		"MainMenuHighlightBorder"
+			
+		"NotificationBG"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"NotificationBG"
+			"xpos"			"-10"
+			"ypos"			"-10"
+			"zpos"			"-50"
+			"wide"			"220"
+			"tall"			"90"
+			"visible"		"1"
+			"enabled"		"1"
+			"fillcolor"		"46 46 46 125"
+			"tileImage"		"1"
+		
+		}
 
 
 		
@@ -919,18 +938,18 @@
 		{
 			"ControlName"	"CExImageButton"
 			"fieldName"		"Notifications_CloseButton"
-			"xpos"			"186"
-			"ypos"			"8"
+			"xpos"			"180"
+			"ypos"			"-15"
 			"zpos"			"10"
-			"wide"			"14"
-			"tall"			"14"
+			"wide"			"36"
+			"tall"			"36"
 			"autoResize"	"0"
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"	"0"
-			"labeltext"		""
-			"font"			"Titillium32"
+			"labeltext"		"["
+			"font"			"Entypo36"
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
@@ -945,7 +964,7 @@
 			"paintbackground"	"0"
 			
 			"defaultFgColor_override" "255 255 255 255"
-			"armedFgColor_override" "127 255 212 255"
+			"armedFgColor_override" "200 80 60 255"
 			"depressedFgColor_override" "255 255 255 255"
 			
 			"image_drawcolor"	"117 107 94 255"
@@ -970,7 +989,7 @@
 		{
 			"ControlName"	"CExLabel"
 			"fieldName"		"Notifications_TitleLabel"
-			"font"			"Titillium32"
+			"font"			"Titillium14"
 			"labelText"		"%notititle%"
 			"textAlignment"	"north-center"
 			"xpos"			"12"
@@ -1380,8 +1399,8 @@
 		"xpos"			"c-59"
 		"ypos"			"245"
 		"zpos"			"13"
-		"wide"			"32"
-		"tall"			"32"
+		"wide"			"0"
+		"tall"			"0"
 		"visible"		"0"
 		"enabled"		"1"
 		"image"			"../vgui/new"

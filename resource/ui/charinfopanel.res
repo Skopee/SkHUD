@@ -106,7 +106,7 @@
 		"tabskv"
 		{
 			"textinsetx"		"40"
-			"font"				"HudFontMediumBold"
+			"font"				"Titillium32"
 			"selectedcolor"		"127 255 212 255"
 			"unselectedcolor"	"127 127 127 255"	
 			"paintbackground"	"0"
@@ -136,7 +136,7 @@
 		"enabled"		"1"
 		"tabPosition"	"0"
 		"labelText"		"Back (&Q)"
-		"font"			"Champagne18"
+		"font"			"Titillium32"
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
