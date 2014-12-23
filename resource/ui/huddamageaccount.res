@@ -8,7 +8,7 @@
 		"delta_item_end_y"		"0"
 		"PositiveColor"			"255 255 0 255"
 		"NegativeColor"			"255 255 0 255"
-		"delta_lifetime"		"1.5"
+		"delta_lifetime"		"3"
 		"delta_item_font"		"MavenProMedium20"
 		"delta_item_font_big"	"MavenProMedium26"
 	}
@@ -16,8 +16,8 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"DamageAccountValue"
-		"xpos"			"c-200"				
-		"ypos"			"400"				
+		"xpos"			"c100"				
+		"ypos"			"r50"				
 		"zpos"			"2"
 		"wide"			"100"
 		"tall"			"29"
@@ -33,8 +33,8 @@
 	{
 		"ControlName"	 	"CExLabel"
 		"fieldname"	 		"DamageAccountValueShadow"
-		"xpos"	 			"c-199"
-		"ypos"	 			"401"
+		"xpos"	 			"c101"
+		"ypos"	 			"r51"
 		"wide"	 			"100"
 		"tall"	 			"29"
 		"visible"			"1"
