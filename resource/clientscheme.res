@@ -2134,7 +2134,7 @@ Scheme
 			"1"
 			{
 				"name"		"Titillium"
-				"tall"		"8"
+				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -2145,7 +2145,7 @@ Scheme
 			"1"
 			{
 				"name"		"Titillium"
-				"tall"		"9"
+				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
@@ -2156,8 +2156,7 @@ Scheme
 			"1"
 			{
 				"name"		"Titillium"
-				"tall"		"12"
-				"weight"	"500"
+				"tall"		"10"
 				"additive"	"0"
 				"antialias" "1"
 			}
@@ -2167,8 +2166,7 @@ Scheme
 			"1"
 			{
 				"name"		"Titillium"
-				"tall"		"7"
-				"weight"	"500"
+				"tall"		"10"
 				"additive"	"0"
 				"antialias" 	"1"
 			}
@@ -2178,7 +2176,7 @@ Scheme
 			"1"
 			{
 				"name"		"Titillium"
-				"tall"		"8"
+				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -2189,7 +2187,7 @@ Scheme
 			"1"
 			{
 				"name"		"Titillium"
-				"tall"		"11"
+				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
 				"antialias" 	"1"
