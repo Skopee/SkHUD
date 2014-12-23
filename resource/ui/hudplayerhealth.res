@@ -48,12 +48,12 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"9999999"	//96
-		"ypos"			"9999999" 	//50
+		"xpos"			"96"	//96
+		"ypos"			"50" 	//50
 		"zpos"			"4"
-		"wide"			"0"		//60	
-		"tall"			"0"		//60
-		"visible"		"0"			//1
+		"wide"			"60"		//60	
+		"tall"			"60"		//60
+		"visible"		"1"			//1
 		"enabled"		"1"
 		"image"			"../hud/health_over_bg"
 		"scaleImage"	"1"
