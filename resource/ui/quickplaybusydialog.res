@@ -18,7 +18,7 @@
 
 	"BusyContainer"
 	{
-		"ControlName"	"Imageanel"
+		"ControlName"	"EditablePanel"
 		"fieldName"		"BusyContainer"
 		"xpos"		"c-225"
 		"ypos"		"c-75"
@@ -31,8 +31,8 @@
 		"enabled"		"1"
 		"tabPosition"		"0"
 		"PaintBackgroundType"	"0"
-		"paintbackground"		"0"
-		"fillcolor"				"46 46 46 125"
+		"paintbackground"		"1"
+		"border"				"Noborder"
 
 		"Background"
 		{
@@ -47,7 +47,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"46 46 46 125"
+			"bgcolor_override"	"40 40 40 255"	
 		}
 
 		"TitleLabel"
@@ -65,6 +65,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
+			"fgcolor_override"	"255 255 255 255"
 		}
 
 		"Progress"
@@ -79,6 +80,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
+			
 		}
 
 		"NumServers"
@@ -97,6 +99,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
+			"fgcolor_override"	"255 255 255 255"
 		}
 
 		"CloseButton"
@@ -122,6 +125,15 @@
 			"Command"		"user_close"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
+							"border_default"	"Noborder"
+				"border_armed"		"Noborder"
+				"defaultFgColor_override" "255 255 255 255"
+				"armedFgColor_override" "127 255 212 255"
+				"depressedFgColor_override" "255 255 255 255"
+				
+				"defaultBgColor_override" "46 46 46 255"
+				"armedBgColor_override" "46 46 46 255"
+				"depressedBgColor_override" "46 46 46 255"
 		}			
 		
 	}
@@ -142,7 +154,7 @@
 		"tabPosition"		"0"
 		"PaintBackgroundType"	"0"
 		"paintbackground"		"1"
-		"border"				"QuickplayBorder"
+		"border"				"Noborder"
 
 		"Background"
 		{
@@ -157,7 +169,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"tabPosition"		"0"
-			"bgcolor_override"	"40 37 37 255"
+			"bgcolor_override"	"40 40 40 255"
 		}
 
 		"TitleLabel"
@@ -176,6 +188,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
+			"fgcolor_override"	"255 255 255 255"
 		}
 
 		"ServerList"
@@ -214,6 +227,15 @@
 			"Command"		"ConnectToServer"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
+										"border_default"	"Noborder"
+				"border_armed"		"Noborder"
+				"defaultFgColor_override" "255 255 255 255"
+				"armedFgColor_override" "127 255 212 255"
+				"depressedFgColor_override" "255 255 255 255"
+				
+				"defaultBgColor_override" "46 46 46 255"
+				"armedBgColor_override" "46 46 46 255"
+				"depressedBgColor_override" "46 46 46 255"
 		}
 
 		"CancelButton"
@@ -239,6 +261,15 @@
 			"Command"		"user_close"
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
+										"border_default"	"Noborder"
+				"border_armed"		"Noborder"
+				"defaultFgColor_override" "255 255 255 255"
+				"armedFgColor_override" "127 255 212 255"
+				"depressedFgColor_override" "255 255 255 255"
+				
+				"defaultBgColor_override" "46 46 46 255"
+				"armedBgColor_override" "46 46 46 255"
+				"depressedBgColor_override" "46 46 46 255"
 		}			
 		
 	}
