@@ -454,11 +454,28 @@
 		"wide"			"300"
 		"tall"			"360"
 		"visible"		"0"
-		"PaintBackgroundType"	"2"
-		"paintbackground"	"0"
-		"border"		"MainMenuHighlightBorder"
+		"PaintBackgroundType"	"0"
+		"paintbackground"		"1"
+		"border"				"Noborder"
 
-		
+
+		"Background"
+		{
+			"ControlName"	"EditablePanel"
+			"fieldName"		"Background"
+			"xpos"		"0"
+			"ypos"		"0"
+			"wide"		"f0"
+			"tall"		"f0"
+			"autoResize"		"0"
+			"pinCorner"		"0"
+			"visible"		"1"
+			"enabled"		"1"
+			"zpos"	"-1"
+			"tabPosition"		"0"
+			"bgcolor_override"	"46 46 46 255"
+			"proportionalToParent"	"1"
+		}
 		"MOTD_HeaderContainer"
 		{
 			"ControlName"	"EditablePanel"
@@ -468,6 +485,8 @@
 			"wide"			"300"
 			"tall"			"22"
 			"visible"		"1"
+			"bgcolor_override"	"0 0 0 0"
+
 			
 			"MOTD_HeaderLabel"
 			{
@@ -486,7 +505,7 @@
 				"enabled"		"1"
 				"PaintBackgroundType" "2"
 				"fgcolor_override"	"255 255 255 255"
-				"bgcolor_override"	"46 46 46 255"
+				
 			}
 		}
 		
@@ -568,7 +587,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"46 46 46 255"
+			"fgcolor_override"	"255 255 255 255"
 			"wrap"			"1"
 		}
 		
@@ -587,7 +606,7 @@
 			"pinCorner"		"0"
 			"visible"		"1"
 			"enabled"		"1"
-			"fgcolor_override"	"46 46 46 255"
+			"fgcolor_override"	"255 255 255 255"
 		}
 		
 		"MOTD_TitleImageBg"
@@ -602,7 +621,7 @@
 			"visible"		"1"
 			"enabled"		"1"
 			"image"			""
-			"fillcolor"		"46 46 46 255"
+			"fgcolor_override"	"255 255 255 255"
 			"scaleImage"	"1"
 		}
 		
@@ -642,7 +661,7 @@
 			"wide"			"280"
 			"tall"			"95"
 			"PaintBackgroundType"	"2"
-			"fgcolor_override"	"46 46 46 255"
+			"fgcolor_override"	"255 255 255 255"
 			
 			"MOTD_TextPanel"
 			{
@@ -670,7 +689,7 @@
 					"pinCorner"		"0"
 					"visible"		"1"
 					"enabled"		"1"
-					"fgcolor_override"	"46 46 46 255"
+					"fgcolor_override"	"255 255 255 255"
 					"wrap"			"1"
 				}
 			}
@@ -698,15 +717,19 @@
 			"brighttext"	"0"
 			"default"		"1"
 			"command"		"motd_viewurl"
+			"paintbackground" "1"
 
 
 			"sound_depressed"	"UI/buttonclick.wav"
 			"sound_released"	"UI/buttonclickrelease.wav"
 			
-			"defaultFgColor_override" "46 46 46 255"
-			"defaultBgColor_override" "255 255 255 255"
-			"armedFgColor_override" "255 255 255 255"
-			"depressedFgColor_override" "127 255 212 255"
+				"defaultFgColor_override" "255 255 255 255"
+				"armedFgColor_override" "127 255 212 255"
+				"depressedFgColor_override" "255 255 255 255"
+				
+				"defaultBgColor_override" "46 46 46 255"
+				"armedBgColor_override" "46 46 46 255"
+				"depressedBgColor_override" "46 46 46 255"
 		}	
 		
 		"MOTD_PrevButton"
