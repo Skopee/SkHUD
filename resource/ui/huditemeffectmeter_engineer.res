@@ -5,10 +5,10 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"c-16"	[$WIN32]
-		"ypos"			"r125"	[$WIN32]
-		"wide"			"100"
-		"tall"			"50"
+		"xpos"	"c0"	[$WIN32]
+		"ypos"	"r150"	[$WIN32]
+		"wide"	"500"
+		"tall"	"250"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}
@@ -78,20 +78,40 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"0"
-		"ypos"					"10"
-		"zpos"					"2"
-		"wide"					"40"
-		"tall"					"100"	
+		"font"			"Titillium74"
+		"fgcolor"		"AmmoInClip"
+		"xpos"			"75"
+		"ypos"			"52"
+		"zpos"			"5"
+		"wide"			"60"
+		"tall"			"50"
+		"textAlignment"	"center"	
 		"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"
 		"tabPosition"			"0"
 		"labelText"				"%progresscount%"
-		"textAlignment"			"north"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"Titillium34"
-		"fgcolor_override"		"255 255 255 255"
+	}
+		"ItemEffectMeterCountS"
+	{
+		"ControlName"			"CExLabel"
+		"fieldName"				"ItemEffectMeterCountS"
+		"font"			"Titillium74"
+		"fgcolor"		"AmmoInClipShadow"
+		"xpos"			"76"
+		"ypos"			"53"
+		"zpos"			"5"
+		"wide"			"60"
+		"tall"			"50"
+		"textAlignment"	"center"	
+		"pinCorner"				"2"
+		"visible"				"1"
+		"enabled"				"1"
+		"tabPosition"			"0"
+		"labelText"				"%progresscount%"
+		"dulltext"				"0"
+		"brighttext"			"0"
 	}
 }
