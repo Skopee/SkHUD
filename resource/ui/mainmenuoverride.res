@@ -172,7 +172,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"HUDLabel"
 		"font"			"Titillium16"
-		"labelText"		"Welcome back to skHUD v.87"
+		"labelText"		"Welcome back to skHUD v.88"
 		"textAlignment"	"west"
 		"xpos"			"c-392"
 		"ypos"			"40"
