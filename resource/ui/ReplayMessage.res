@@ -2,12 +2,12 @@
 {
 	"ReplayMessagePanel"
 	{
-		"ControlName"		"EditablePanel"
+		"ControlName"	"EditablePanel"
 		"fieldName"		"ReplayMessagePanel"
-		"zpos"			"0"
+		"zpos"			"1000"
 		"tall"			"0"
 		"wide"			"0"
-		"autoResize"		"0"
+		"autoResize"	"0"
 		"visible"		"0"
 		"enabled"		"0"
 	}
@@ -16,7 +16,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"ReplayLabel"
-		"font"			"Default"
+		"font"			"HudFontMediumBold"
 		"xpos"			"9"
 		"ypos"			"4"
 		"zpos"			"0"
@@ -25,27 +25,28 @@
 		"visible"		"0"
 		"enabled"		"0"
 		"labelText"		"#Replay_ReplayMsgTitle"
-		"textAlignment"	"west"
-		"fgcolor"		"Blank"
+		"textAlignment"	"north-west"
+		"fgcolor"		"235 226 202 255"
 	}
+	
 	"MessageLabel"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"MessageLabel"
-		"font"			"Default"
+		"font"			"ItemFontAttribLarge"
 		"zpos"			"0"
 		"wide"			"0"
 		"tall"			"0"
 		"visible"		"0"
 		"enabled"		"0"
-		"textAlignment"	"west"
-		"fgcolor"		"Blank"
+		"textAlignment"	"north"
+		"fgcolor"		"235 226 202 255"
 		"centerwrap"	"0"
 		"wrap"			"1"
 	}
 	"Icon"
 	{
-		"ControlName"		"ImagePanel"
+		"ControlName"	"ImagePanel"
 		"fieldName"		"Icon"
 		"xpos"			"8"
 		"ypos"			"5"
