@@ -44,7 +44,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"BlueTeamLabel"
-			"font"			"Champagne20"
+			"font"			"Titillium20"
 			"labelText"		"%blueteamname%"
 			"textAlignment"		"west"
 			"xpos"			"4"
@@ -60,7 +60,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"BlueTeamScore"
-			"font"			"Champagne20"
+			"font"			"Titillium20"
 			"labelText"		"%blueteamscore%"
 			"textAlignment"		"center"
 			"xpos"			"140"
@@ -93,7 +93,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"RedTeamLabel"
-			"font"			"Champagne20"
+			"font"			"Titillium20"
 			"labelText"		"%redteamname%"
 			"textAlignment"		"west"
 			"xpos"			"345"
@@ -109,7 +109,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"RedTeamScore"
-			"font"			"Champagne20"
+			"font"			"Titillium20"
 			"labelText"		"%redteamscore%"
 			"textAlignment"		"center"
 			"xpos"			"190"
@@ -168,7 +168,7 @@
 		{	
 			"ControlName"		"CExLabel"
 			"fieldName"		"ArenaStreakLabel"
-			"font"			"Champagne20"
+			"font"			"Titillium20"
 			"fgcolor"		"255 255 255 255"
 			"xpos"			"130"
 			"ypos"			"150"
@@ -203,7 +203,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"WinningTeamLabel"
-		"font"			"Champagne20"
+		"font"			"Titillium20"
 		"xpos"			"35"
 		"ypos"			"30"
 		"zpos"			"1"
@@ -243,7 +243,7 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"WinningTeamLabel"
-		"font"			"Champagne20"
+		"font"			"Titillium20"
 		"xpos"			"35"
 		"ypos"			"30"
 		"zpos"			"1"
@@ -331,7 +331,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"	
-		"fillcolor"		"46 46 46 255"
+		"fillcolor"		"46 46 46 125"
 		"PaintBackgroundType"	"0"
 	}
 	"TopPlayersLabel"

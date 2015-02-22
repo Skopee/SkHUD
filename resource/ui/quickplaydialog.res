@@ -13,7 +13,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"bgcolor_override"	"0 0 0 240"
+		"bgcolor_override"	"0 0 0 0"
 	}
 
 	"Container"
@@ -97,7 +97,7 @@
 				"pinCorner"		"0"
 				"visible"		"1"
 				"enabled"		"1"
-				"fgcolor_override"	"46 46 46 255"
+				"fgcolor_override"	"255 255 255 255"
 			}
 
 			"MoreInfoButton"
@@ -142,7 +142,7 @@
 				"tall"		"245"
 				"visible"	"1"
 				"enabled"	"1"
-				"border"				"MainMenuHighlightBorder"
+				"border"				""
 
 				"ModeImage"
 				{
@@ -177,7 +177,7 @@
 					"visible"		"1"
 					"enabled"		"1"
 					"mouseinputenabled" "0"
-					"fgcolor_override"	"46 46 46 255"
+					"fgcolor_override"	"255 255 255 255"
 				}
 
 				"DescLabel"
@@ -196,7 +196,7 @@
 					"pinCorner"		"0"
 					"visible"		"1"
 					"enabled"		"1"
-					"fgcolor_override"	"46 46 46 255"
+					"fgcolor_override"	"255 255 255 255"
 					"auto_wide_tocontents" "0"
 					"wrap"				   "1"
 					"centerwrap"		   "1"

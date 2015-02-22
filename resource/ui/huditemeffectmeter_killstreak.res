@@ -7,8 +7,6 @@
 		"enabled"		"1"
 		"xpos"			"94"	[$WIN32]
 		"ypos"			"r52"	[$WIN32]
-		"//"	"68"	[$WIN32]
-		"//"	"r40"	[$WIN32]
 		"wide"			"100"
 		"tall"			"50"
 		"MeterFG"		"227 227 227 255"

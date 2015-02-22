@@ -590,11 +590,11 @@
 		"default"		"0"
 		"Command"		"characterloadout"
 		"sound_depressed"	"UI/buttonclick.wav"
-		"sound_released"	"UI/buttonclickrelease.wav"
 		
 			"border_default"		"NoBorder"
         
 			"border_armed"		"NoBorder"
+		"sound_released"	"UI/buttonclickrelease.wav"
 
 		"SubImage"
 		{
