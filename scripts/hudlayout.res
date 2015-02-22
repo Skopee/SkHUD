@@ -116,7 +116,7 @@
 		"controlName"	"CExLabel"
 		"fieldName"	 	"BasicDot"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"zpos"			"2"
 
 		"xpos"			"c-103"
@@ -326,7 +326,7 @@
 		"controlName"	"CExLabel"
 		"fieldName"	 	"KonrWings"
 		"visible"		"0"
-		"enabled"		"0"
+		"enabled"		"1"
 		"zpos"			"2"
 
 		"xpos"			"c-108"
@@ -340,7 +340,7 @@
 		"labelText"		"i"
 		"textAlignment"	"center"	
 		
-		"fgcolor"		"127 255 212 255"
+		"fgcolor"		"255 255 255 255"
 	}
 	//end xhairs
 	
@@ -527,16 +527,13 @@
 	CHudAccountPanel
 	{
 		"fieldName"				"CHudAccountPanel"
-		"xpos"					"r162"	[$WIN32]
-		"ypos"					"r152"	[$WIN32]
-		"ypos_minmode"			"r134"	[$WIN32]
-		"xpos"					"r194"	[$X360]
-		"ypos"					"r174"	[$X360]
-		"wide"					"116"
-		"tall"  				"180"
-		"visible" 				"1"
-		"enabled" 				"1"
-		"PaintBackgroundType"	"2"
+		"visible"		"1"
+		"enabled"		"1"
+		"xpos"			"c-59"	
+		"ypos"			"r150"
+		"wide"			"118"
+		"tall"			"500"
+
 	}
 	
 	CHealthAccountPanel
@@ -655,11 +652,7 @@
 		"visible"	"1"
 		"enabled"	"1"
 		"xpos"		"0"
-		"xpos_hidef"		"32"
-		"xpos_lodef"		"40"
-		"ypos"		"0"
-		"ypos_hidef"		"16"
-		"ypos_lodef"		"25"
+		"ypos"		"250"
 		"wide"		"640"
 		"tall"		"480"
 		

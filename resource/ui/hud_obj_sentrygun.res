@@ -22,12 +22,12 @@
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"-1"
-		"wide"			"120"
-		"tall"			"60"
-		"visible"		"1"
-		"enabled"		"1"
+		"wide"			"0"
+		"tall"			"0"
+		"visible"		"0"
+		"enabled"		"0"
 		"scaleImage"	"1"	
-		"icon"			"obj_status_background_tall_disabled"
+		"icon"			"obj_status_background_disabled"
 		"iconColor"		"255 255 255 255"
 	}
 	
@@ -167,7 +167,7 @@
 		
 		"AlertTray"
 		{
-			"ControlName"	"CBuildingStatusAlertTray"
+			"ControlName"	"EditablePanel"
 			"fieldName"		"AlertTray"
 			"xpos"			"114"
 			"ypos"			"0"
